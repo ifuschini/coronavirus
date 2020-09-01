@@ -1,0 +1,730 @@
+[
+    {
+        "Name": "US",
+        "path": "US"
+    },
+    {
+        "Name": "Canada",
+        "path": "Canada"
+    },
+    {
+        "Name": "United Kingdom",
+        "path": "United_Kingdom"
+    },
+    {
+        "Name": "China",
+        "path": "China"
+    },
+    {
+        "Name": "Netherlands",
+        "path": "Netherlands"
+    },
+    {
+        "Name": "Australia",
+        "path": "Australia"
+    },
+    {
+        "Name": "Denmark",
+        "path": "Denmark"
+    },
+    {
+        "Name": "France",
+        "path": "France"
+    },
+    {
+        "Name": "Afghanistan",
+        "path": "Afghanistan"
+    },
+    {
+        "Name": "Albania",
+        "path": "Albania"
+    },
+    {
+        "Name": "Algeria",
+        "path": "Algeria"
+    },
+    {
+        "Name": "Andorra",
+        "path": "Andorra"
+    },
+    {
+        "Name": "Angola",
+        "path": "Angola"
+    },
+    {
+        "Name": "Antigua and Barbuda",
+        "path": "Antigua_and_Barbuda"
+    },
+    {
+        "Name": "Argentina",
+        "path": "Argentina"
+    },
+    {
+        "Name": "Armenia",
+        "path": "Armenia"
+    },
+    {
+        "Name": "Austria",
+        "path": "Austria"
+    },
+    {
+        "Name": "Azerbaijan",
+        "path": "Azerbaijan"
+    },
+    {
+        "Name": "Bahamas",
+        "path": "Bahamas"
+    },
+    {
+        "Name": "Bahrain",
+        "path": "Bahrain"
+    },
+    {
+        "Name": "Bangladesh",
+        "path": "Bangladesh"
+    },
+    {
+        "Name": "Barbados",
+        "path": "Barbados"
+    },
+    {
+        "Name": "Belarus",
+        "path": "Belarus"
+    },
+    {
+        "Name": "Belgium",
+        "path": "Belgium"
+    },
+    {
+        "Name": "Belize",
+        "path": "Belize"
+    },
+    {
+        "Name": "Benin",
+        "path": "Benin"
+    },
+    {
+        "Name": "Bhutan",
+        "path": "Bhutan"
+    },
+    {
+        "Name": "Bolivia",
+        "path": "Bolivia"
+    },
+    {
+        "Name": "Bosnia and Herzegovina",
+        "path": "Bosnia_and_Herzegovina"
+    },
+    {
+        "Name": "Botswana",
+        "path": "Botswana"
+    },
+    {
+        "Name": "Brazil",
+        "path": "Brazil"
+    },
+    {
+        "Name": "Brunei",
+        "path": "Brunei"
+    },
+    {
+        "Name": "Bulgaria",
+        "path": "Bulgaria"
+    },
+    {
+        "Name": "Burkina Faso",
+        "path": "Burkina_Faso"
+    },
+    {
+        "Name": "Burma",
+        "path": "Burma"
+    },
+    {
+        "Name": "Burundi",
+        "path": "Burundi"
+    },
+    {
+        "Name": "Cabo Verde",
+        "path": "Cabo_Verde"
+    },
+    {
+        "Name": "Cambodia",
+        "path": "Cambodia"
+    },
+    {
+        "Name": "Cameroon",
+        "path": "Cameroon"
+    },
+    {
+        "Name": "Central African Republic",
+        "path": "Central_African_Republic"
+    },
+    {
+        "Name": "Chad",
+        "path": "Chad"
+    },
+    {
+        "Name": "Chile",
+        "path": "Chile"
+    },
+    {
+        "Name": "Colombia",
+        "path": "Colombia"
+    },
+    {
+        "Name": "Congo (Brazzaville)",
+        "path": "Congo_(Brazzaville)"
+    },
+    {
+        "Name": "Congo (Kinshasa)",
+        "path": "Congo_(Kinshasa)"
+    },
+    {
+        "Name": "Costa Rica",
+        "path": "Costa_Rica"
+    },
+    {
+        "Name": "Cote d'Ivoire",
+        "path": "Cote_d'Ivoire"
+    },
+    {
+        "Name": "Croatia",
+        "path": "Croatia"
+    },
+    {
+        "Name": "Cuba",
+        "path": "Cuba"
+    },
+    {
+        "Name": "Cyprus",
+        "path": "Cyprus"
+    },
+    {
+        "Name": "Czechia",
+        "path": "Czechia"
+    },
+    {
+        "Name": "Diamond Princess",
+        "path": "Diamond_Princess"
+    },
+    {
+        "Name": "Djibouti",
+        "path": "Djibouti"
+    },
+    {
+        "Name": "Dominica",
+        "path": "Dominica"
+    },
+    {
+        "Name": "Dominican Republic",
+        "path": "Dominican_Republic"
+    },
+    {
+        "Name": "Ecuador",
+        "path": "Ecuador"
+    },
+    {
+        "Name": "Egypt",
+        "path": "Egypt"
+    },
+    {
+        "Name": "El Salvador",
+        "path": "El_Salvador"
+    },
+    {
+        "Name": "Equatorial Guinea",
+        "path": "Equatorial_Guinea"
+    },
+    {
+        "Name": "Eritrea",
+        "path": "Eritrea"
+    },
+    {
+        "Name": "Estonia",
+        "path": "Estonia"
+    },
+    {
+        "Name": "Eswatini",
+        "path": "Eswatini"
+    },
+    {
+        "Name": "Ethiopia",
+        "path": "Ethiopia"
+    },
+    {
+        "Name": "Fiji",
+        "path": "Fiji"
+    },
+    {
+        "Name": "Finland",
+        "path": "Finland"
+    },
+    {
+        "Name": "Gabon",
+        "path": "Gabon"
+    },
+    {
+        "Name": "Gambia",
+        "path": "Gambia"
+    },
+    {
+        "Name": "Georgia",
+        "path": "Georgia"
+    },
+    {
+        "Name": "Germany",
+        "path": "Germany"
+    },
+    {
+        "Name": "Ghana",
+        "path": "Ghana"
+    },
+    {
+        "Name": "Greece",
+        "path": "Greece"
+    },
+    {
+        "Name": "Grenada",
+        "path": "Grenada"
+    },
+    {
+        "Name": "Guatemala",
+        "path": "Guatemala"
+    },
+    {
+        "Name": "Guinea",
+        "path": "Guinea"
+    },
+    {
+        "Name": "Guinea-Bissau",
+        "path": "Guinea-Bissau"
+    },
+    {
+        "Name": "Guyana",
+        "path": "Guyana"
+    },
+    {
+        "Name": "Haiti",
+        "path": "Haiti"
+    },
+    {
+        "Name": "Holy See",
+        "path": "Holy_See"
+    },
+    {
+        "Name": "Honduras",
+        "path": "Honduras"
+    },
+    {
+        "Name": "Hungary",
+        "path": "Hungary"
+    },
+    {
+        "Name": "Iceland",
+        "path": "Iceland"
+    },
+    {
+        "Name": "India",
+        "path": "India"
+    },
+    {
+        "Name": "Indonesia",
+        "path": "Indonesia"
+    },
+    {
+        "Name": "Iran",
+        "path": "Iran"
+    },
+    {
+        "Name": "Iraq",
+        "path": "Iraq"
+    },
+    {
+        "Name": "Ireland",
+        "path": "Ireland"
+    },
+    {
+        "Name": "Israel",
+        "path": "Israel"
+    },
+    {
+        "Name": "Italy",
+        "path": "Italy"
+    },
+    {
+        "Name": "Jamaica",
+        "path": "Jamaica"
+    },
+    {
+        "Name": "Japan",
+        "path": "Japan"
+    },
+    {
+        "Name": "Jordan",
+        "path": "Jordan"
+    },
+    {
+        "Name": "Kazakhstan",
+        "path": "Kazakhstan"
+    },
+    {
+        "Name": "Kenya",
+        "path": "Kenya"
+    },
+    {
+        "Name": "Korea, South",
+        "path": "Korea,_South"
+    },
+    {
+        "Name": "Kosovo",
+        "path": "Kosovo"
+    },
+    {
+        "Name": "Kuwait",
+        "path": "Kuwait"
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "path": "Kyrgyzstan"
+    },
+    {
+        "Name": "Laos",
+        "path": "Laos"
+    },
+    {
+        "Name": "Latvia",
+        "path": "Latvia"
+    },
+    {
+        "Name": "Lebanon",
+        "path": "Lebanon"
+    },
+    {
+        "Name": "Liberia",
+        "path": "Liberia"
+    },
+    {
+        "Name": "Libya",
+        "path": "Libya"
+    },
+    {
+        "Name": "Liechtenstein",
+        "path": "Liechtenstein"
+    },
+    {
+        "Name": "Lithuania",
+        "path": "Lithuania"
+    },
+    {
+        "Name": "Luxembourg",
+        "path": "Luxembourg"
+    },
+    {
+        "Name": "MS Zaandam",
+        "path": "MS_Zaandam"
+    },
+    {
+        "Name": "Madagascar",
+        "path": "Madagascar"
+    },
+    {
+        "Name": "Malawi",
+        "path": "Malawi"
+    },
+    {
+        "Name": "Malaysia",
+        "path": "Malaysia"
+    },
+    {
+        "Name": "Maldives",
+        "path": "Maldives"
+    },
+    {
+        "Name": "Mali",
+        "path": "Mali"
+    },
+    {
+        "Name": "Malta",
+        "path": "Malta"
+    },
+    {
+        "Name": "Mauritania",
+        "path": "Mauritania"
+    },
+    {
+        "Name": "Mauritius",
+        "path": "Mauritius"
+    },
+    {
+        "Name": "Mexico",
+        "path": "Mexico"
+    },
+    {
+        "Name": "Moldova",
+        "path": "Moldova"
+    },
+    {
+        "Name": "Monaco",
+        "path": "Monaco"
+    },
+    {
+        "Name": "Mongolia",
+        "path": "Mongolia"
+    },
+    {
+        "Name": "Montenegro",
+        "path": "Montenegro"
+    },
+    {
+        "Name": "Morocco",
+        "path": "Morocco"
+    },
+    {
+        "Name": "Mozambique",
+        "path": "Mozambique"
+    },
+    {
+        "Name": "Namibia",
+        "path": "Namibia"
+    },
+    {
+        "Name": "Nepal",
+        "path": "Nepal"
+    },
+    {
+        "Name": "New Zealand",
+        "path": "New_Zealand"
+    },
+    {
+        "Name": "Nicaragua",
+        "path": "Nicaragua"
+    },
+    {
+        "Name": "Niger",
+        "path": "Niger"
+    },
+    {
+        "Name": "Nigeria",
+        "path": "Nigeria"
+    },
+    {
+        "Name": "North Macedonia",
+        "path": "North_Macedonia"
+    },
+    {
+        "Name": "Norway",
+        "path": "Norway"
+    },
+    {
+        "Name": "Oman",
+        "path": "Oman"
+    },
+    {
+        "Name": "Pakistan",
+        "path": "Pakistan"
+    },
+    {
+        "Name": "Panama",
+        "path": "Panama"
+    },
+    {
+        "Name": "Papua New Guinea",
+        "path": "Papua_New_Guinea"
+    },
+    {
+        "Name": "Paraguay",
+        "path": "Paraguay"
+    },
+    {
+        "Name": "Peru",
+        "path": "Peru"
+    },
+    {
+        "Name": "Philippines",
+        "path": "Philippines"
+    },
+    {
+        "Name": "Poland",
+        "path": "Poland"
+    },
+    {
+        "Name": "Portugal",
+        "path": "Portugal"
+    },
+    {
+        "Name": "Qatar",
+        "path": "Qatar"
+    },
+    {
+        "Name": "Romania",
+        "path": "Romania"
+    },
+    {
+        "Name": "Russia",
+        "path": "Russia"
+    },
+    {
+        "Name": "Rwanda",
+        "path": "Rwanda"
+    },
+    {
+        "Name": "Saint Kitts and Nevis",
+        "path": "Saint_Kitts_and_Nevis"
+    },
+    {
+        "Name": "Saint Lucia",
+        "path": "Saint_Lucia"
+    },
+    {
+        "Name": "Saint Vincent and the Grenadines",
+        "path": "Saint_Vincent_and_the_Grenadines"
+    },
+    {
+        "Name": "San Marino",
+        "path": "San_Marino"
+    },
+    {
+        "Name": "Saudi Arabia",
+        "path": "Saudi_Arabia"
+    },
+    {
+        "Name": "Senegal",
+        "path": "Senegal"
+    },
+    {
+        "Name": "Serbia",
+        "path": "Serbia"
+    },
+    {
+        "Name": "Seychelles",
+        "path": "Seychelles"
+    },
+    {
+        "Name": "Sierra Leone",
+        "path": "Sierra_Leone"
+    },
+    {
+        "Name": "Singapore",
+        "path": "Singapore"
+    },
+    {
+        "Name": "Slovakia",
+        "path": "Slovakia"
+    },
+    {
+        "Name": "Slovenia",
+        "path": "Slovenia"
+    },
+    {
+        "Name": "Somalia",
+        "path": "Somalia"
+    },
+    {
+        "Name": "South Africa",
+        "path": "South_Africa"
+    },
+    {
+        "Name": "Spain",
+        "path": "Spain"
+    },
+    {
+        "Name": "Sri Lanka",
+        "path": "Sri_Lanka"
+    },
+    {
+        "Name": "Sudan",
+        "path": "Sudan"
+    },
+    {
+        "Name": "Suriname",
+        "path": "Suriname"
+    },
+    {
+        "Name": "Sweden",
+        "path": "Sweden"
+    },
+    {
+        "Name": "Switzerland",
+        "path": "Switzerland"
+    },
+    {
+        "Name": "Syria",
+        "path": "Syria"
+    },
+    {
+        "Name": "Taiwan*",
+        "path": "Taiwan*"
+    },
+    {
+        "Name": "Tanzania",
+        "path": "Tanzania"
+    },
+    {
+        "Name": "Thailand",
+        "path": "Thailand"
+    },
+    {
+        "Name": "Timor-Leste",
+        "path": "Timor-Leste"
+    },
+    {
+        "Name": "Togo",
+        "path": "Togo"
+    },
+    {
+        "Name": "Trinidad and Tobago",
+        "path": "Trinidad_and_Tobago"
+    },
+    {
+        "Name": "Tunisia",
+        "path": "Tunisia"
+    },
+    {
+        "Name": "Turkey",
+        "path": "Turkey"
+    },
+    {
+        "Name": "Uganda",
+        "path": "Uganda"
+    },
+    {
+        "Name": "Ukraine",
+        "path": "Ukraine"
+    },
+    {
+        "Name": "United Arab Emirates",
+        "path": "United_Arab_Emirates"
+    },
+    {
+        "Name": "Uruguay",
+        "path": "Uruguay"
+    },
+    {
+        "Name": "Uzbekistan",
+        "path": "Uzbekistan"
+    },
+    {
+        "Name": "Venezuela",
+        "path": "Venezuela"
+    },
+    {
+        "Name": "Vietnam",
+        "path": "Vietnam"
+    },
+    {
+        "Name": "West Bank and Gaza",
+        "path": "West_Bank_and_Gaza"
+    },
+    {
+        "Name": "Zambia",
+        "path": "Zambia"
+    },
+    {
+        "Name": "Zimbabwe",
+        "path": "Zimbabwe"
+    },
+    {
+        "Name": "All",
+        "path": "All"
+    }
+]

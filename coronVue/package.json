@@ -1,0 +1,114 @@
+{
+  "name": "vuestic-admin",
+  "version": "2.0.0",
+  "private": false,
+  "description": "Vue.js admin template",
+  "author": "smartapant <smartapant@gmail.com>",
+  "scripts": {
+    "serve": "vue-cli-service --port 3000 serve",
+    "build": "vue-cli-service build",
+    "development": "vue-cli-service --mode development build",
+    "lint": "vue-cli-service lint",
+    "lint:style": "stylelint --fix src/**/*.{vue,htm,html,css,sss,less,scss}",
+    "inspect": "vue-cli-service inspect > inspect.js",
+    "test:unit": "vue-cli-service test:unit"
+  },
+  "dependencies": {
+    "@types/jest": "^24.9.1",
+    "amcharts3": "^3.21.14",
+    "ammap3": "^3.21.14",
+    "approximate-number": "^2.0.0",
+    "asva-executors": "^0.1.23",
+    "axios": "^0.19.2",
+    "babel-polyfill": "^6.26.0",
+    "chart.js": "^2.9.3",
+    "core-js": "^3.6.5",
+    "detect-browser": "^4.8.0",
+    "element-resize-detector": "^1.2.1",
+    "epic-spinners": "^1.1.0",
+    "extend": "3.0.2",
+    "flag-icon-css": "^3.5.0",
+    "font-awesome": "^4.7.0",
+    "google-maps": "^3.3.0",
+    "ionicons": "^4.6.3",
+    "leaflet-map": "^0.2.1",
+    "lodash": "^4.17.20",
+    "medium-editor": "^5.23.3",
+    "normalize.css": "^8.0.1",
+    "popper.js": "^1.16.1",
+    "regenerator-runtime": "^0.13.7",
+    "register-service-worker": "^1.7.1",
+    "v-tooltip": "^2.0.3",
+    "vee-validate": "^2.2.13",
+    "vue": "^2.6.12",
+    "vue-bulma-expanding": "0.0.1",
+    "vue-chartjs": "^3.5.1",
+    "vue-clipboard2": "^0.3.1",
+    "vue-color": "^2.7.1",
+    "vue-epic-bus": "^0.1.2",
+    "vue-gtm": "^2.3.4",
+    "vue-router": "^3.4.3",
+    "vue-yandex-maps": "^0.9.0",
+    "vuestic-ui": "~0.2.2",
+    "vuetable-2": "^1.7.5",
+    "vuex": "^3.5.1",
+    "vuex-i18n": "^1.13.1",
+    "vuex-router-sync": "^5.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.4",
+    "@vue/cli-plugin-eslint": "^4.5.4",
+    "@vue/cli-plugin-pwa": "^4.5.4",
+    "@vue/cli-plugin-unit-jest": "^4.5.4",
+    "@vue/cli-service": "^4.5.4",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "@vue/test-utils": "^1.0.5",
+    "autoprefixer": "^9.8.6",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "lint-staged": "^9.2.1",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.3.1",
+    "sass-resources-loader": "^2.1.0",
+    "stylelint": "^12.0.1",
+    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-scss": "^3.18.0",
+    "stylelint-webpack-plugin": "^1.2.3",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "license": "MIT",
+  "lint-staged": {
+    "*.js": [
+      "vue-cli-service lint",
+      "git add"
+    ],
+    "*.vue": [
+      "vue-cli-service lint",
+      "eslint --fix",
+      "stylelint --fix",
+      "git add"
+    ],
+    ".{htm,html,css,sss,less,scss}": [
+      "stylelint --fix",
+      "git add"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/epicmaxco/vuestic-admin.git"
+  }
+}

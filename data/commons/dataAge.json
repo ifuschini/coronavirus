@@ -1,0 +1,3889 @@
+{
+    "Afghanistan": {
+        "expectancyAge": 64.13,
+        "mediumAge": 19.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 7321646,
+                "male": 7562703,
+                "percentage": 40.62,
+                "total": 14884349
+            },
+            "r15_24": {
+                "female": 3828670,
+                "male": 3960044,
+                "percentage": 21.26,
+                "total": 7788714
+            },
+            "r25_54": {
+                "female": 5661887,
+                "male": 5858675,
+                "percentage": 31.44,
+                "total": 11520562
+            },
+            "r55_64": {
+                "female": 744910,
+                "male": 724597,
+                "percentage": 4.01,
+                "total": 1469507
+            },
+            "r65_more": {
+                "female": 528831,
+                "male": 451852,
+                "percentage": 2.68,
+                "total": 980683
+            }
+        }
+    },
+    "Albania": {
+        "expectancyAge": 78.333,
+        "mediumAge": 34.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 256474,
+                "male": 284636,
+                "percentage": 17.6,
+                "total": 541110
+            },
+            "r15_24": {
+                "female": 226318,
+                "male": 246931,
+                "percentage": 15.39,
+                "total": 473249
+            },
+            "r25_54": {
+                "female": 670307,
+                "male": 622100,
+                "percentage": 42.04,
+                "total": 1292407
+            },
+            "r55_64": {
+                "female": 188783,
+                "male": 178419,
+                "percentage": 11.94,
+                "total": 367202
+            },
+            "r65_more": {
+                "female": 214276,
+                "male": 186335,
+                "percentage": 13.03,
+                "total": 400611
+            }
+        }
+    },
+    "Algeria": {
+        "expectancyAge": 76.499,
+        "mediumAge": 28.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 6201450,
+                "male": 6509490,
+                "percentage": 29.58,
+                "total": 12710940
+            },
+            "r15_24": {
+                "female": 2922368,
+                "male": 3063972,
+                "percentage": 13.93,
+                "total": 5986340
+            },
+            "r25_54": {
+                "female": 9091558,
+                "male": 9345997,
+                "percentage": 42.91,
+                "total": 18437555
+            },
+            "r55_64": {
+                "female": 1585233,
+                "male": 1599369,
+                "percentage": 7.41,
+                "total": 3184602
+            },
+            "r65_more": {
+                "female": 1401357,
+                "male": 1252084,
+                "percentage": 6.17,
+                "total": 2653441
+            }
+        }
+    },
+    "Andorra": {
+        "expectancyAge": null,
+        "mediumAge": 46.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 5551,
+                "male": 5901,
+                "percentage": 13.37,
+                "total": 11452
+            },
+            "r15_24": {
+                "female": 4227,
+                "male": 4474,
+                "percentage": 10.16,
+                "total": 8701
+            },
+            "r25_54": {
+                "female": 18131,
+                "male": 18857,
+                "percentage": 43.19,
+                "total": 36988
+            },
+            "r55_64": {
+                "female": 6443,
+                "male": 7184,
+                "percentage": 15.91,
+                "total": 13627
+            },
+            "r65_more": {
+                "female": 7323,
+                "male": 7544,
+                "percentage": 17.36,
+                "total": 14867
+            }
+        }
+    },
+    "Argentina": {
+        "expectancyAge": 76.372,
+        "mediumAge": 32.4,
+        "rangeAge": {
+            "r0_14": {
+                "female": 5294723,
+                "male": 5629188,
+                "percentage": 24.02,
+                "total": 10923911
+            },
+            "r15_24": {
+                "female": 3367321,
+                "male": 3539021,
+                "percentage": 15.19,
+                "total": 6906342
+            },
+            "r25_54": {
+                "female": 9002931,
+                "male": 9005758,
+                "percentage": 39.6,
+                "total": 18008689
+            },
+            "r55_64": {
+                "female": 2122699,
+                "male": 2000536,
+                "percentage": 9.07,
+                "total": 4123235
+            },
+            "r65_more": {
+                "female": 3185262,
+                "male": 2331679,
+                "percentage": 12.13,
+                "total": 5516941
+            }
+        }
+    },
+    "Armenia": {
+        "expectancyAge": 74.797,
+        "mediumAge": 36.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 265969,
+                "male": 297320,
+                "percentage": 18.64,
+                "total": 563289
+            },
+            "r15_24": {
+                "female": 167197,
+                "male": 184258,
+                "percentage": 11.63,
+                "total": 351455
+            },
+            "r25_54": {
+                "female": 661421,
+                "male": 639101,
+                "percentage": 43.04,
+                "total": 1300522
+            },
+            "r55_64": {
+                "female": 229580,
+                "male": 195754,
+                "percentage": 14.08,
+                "total": 425334
+            },
+            "r65_more": {
+                "female": 226607,
+                "male": 154117,
+                "percentage": 12.6,
+                "total": 380724
+            }
+        }
+    },
+    "Australia": {
+        "expectancyAge": 82.4975609756098,
+        "mediumAge": 37.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 2309706,
+                "male": 2457418,
+                "percentage": 18.72,
+                "total": 4767124
+            },
+            "r15_24": {
+                "female": 1572794,
+                "male": 1710253,
+                "percentage": 12.89,
+                "total": 3283047
+            },
+            "r25_54": {
+                "female": 5255041,
+                "male": 5224840,
+                "percentage": 41.15,
+                "total": 10479881
+            },
+            "r55_64": {
+                "female": 1495806,
+                "male": 1395844,
+                "percentage": 11.35,
+                "total": 2891650
+            },
+            "r65_more": {
+                "female": 2177996,
+                "male": 1866761,
+                "percentage": 15.88,
+                "total": 4044757
+            }
+        }
+    },
+    "Austria": {
+        "expectancyAge": 81.6414634146342,
+        "mediumAge": 44.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 605065,
+                "male": 635803,
+                "percentage": 14.01,
+                "total": 1240868
+            },
+            "r15_24": {
+                "female": 451248,
+                "male": 466921,
+                "percentage": 10.36,
+                "total": 918169
+            },
+            "r25_54": {
+                "female": 1831669,
+                "male": 1831704,
+                "percentage": 41.35,
+                "total": 3663373
+            },
+            "r55_64": {
+                "female": 641389,
+                "male": 635342,
+                "percentage": 14.41,
+                "total": 1276731
+            },
+            "r65_more": {
+                "female": 991621,
+                "male": 768687,
+                "percentage": 19.87,
+                "total": 1760308
+            }
+        }
+    },
+    "Azerbaijan": {
+        "expectancyAge": 72.693,
+        "mediumAge": 32.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1095308,
+                "male": 1235292,
+                "percentage": 22.84,
+                "total": 2330600
+            },
+            "r15_24": {
+                "female": 629494,
+                "male": 714718,
+                "percentage": 13.17,
+                "total": 1344212
+            },
+            "r25_54": {
+                "female": 2330843,
+                "male": 2291600,
+                "percentage": 45.29,
+                "total": 4622443
+            },
+            "r55_64": {
+                "female": 634136,
+                "male": 530046,
+                "percentage": 11.41,
+                "total": 1164182
+            },
+            "r65_more": {
+                "female": 454769,
+                "male": 289604,
+                "percentage": 7.29,
+                "total": 744373
+            }
+        }
+    },
+    "Bahrain": {
+        "expectancyAge": 77.032,
+        "mediumAge": 32.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 136687,
+                "male": 141039,
+                "percentage": 18.45,
+                "total": 277726
+            },
+            "r15_24": {
+                "female": 98817,
+                "male": 129310,
+                "percentage": 15.16,
+                "total": 228127
+            },
+            "r25_54": {
+                "female": 294778,
+                "male": 550135,
+                "percentage": 56.14,
+                "total": 844913
+            },
+            "r55_64": {
+                "female": 38870,
+                "male": 64761,
+                "percentage": 6.89,
+                "total": 103631
+            },
+            "r65_more": {
+                "female": 24807,
+                "male": 25799,
+                "percentage": 3.36,
+                "total": 50606
+            }
+        }
+    },
+    "Bangladesh": {
+        "expectancyAge": 72.052,
+        "mediumAge": 27.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 21158574,
+                "male": 21918651,
+                "percentage": 26.48,
+                "total": 43077225
+            },
+            "r15_24": {
+                "female": 15001950,
+                "male": 15186470,
+                "percentage": 18.56,
+                "total": 30188420
+            },
+            "r25_54": {
+                "female": 34535643,
+                "male": 31694267,
+                "percentage": 40.72,
+                "total": 66229910
+            },
+            "r55_64": {
+                "female": 6115856,
+                "male": 5941825,
+                "percentage": 7.41,
+                "total": 12057681
+            },
+            "r65_more": {
+                "female": 5879411,
+                "male": 5218206,
+                "percentage": 6.82,
+                "total": 11097617
+            }
+        }
+    },
+    "Belarus": {
+        "expectancyAge": 74.1292682926829,
+        "mediumAge": 40.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 740373,
+                "male": 784231,
+                "percentage": 16.09,
+                "total": 1524604
+            },
+            "r15_24": {
+                "female": 441795,
+                "male": 467393,
+                "percentage": 9.59,
+                "total": 909188
+            },
+            "r25_54": {
+                "female": 2105910,
+                "male": 2058648,
+                "percentage": 43.94,
+                "total": 4164558
+            },
+            "r55_64": {
+                "female": 763972,
+                "male": 605330,
+                "percentage": 14.45,
+                "total": 1369302
+            },
+            "r65_more": {
+                "female": 1017211,
+                "male": 493055,
+                "percentage": 15.93,
+                "total": 1510266
+            }
+        }
+    },
+    "Belgium": {
+        "expectancyAge": 81.4390243902439,
+        "mediumAge": 41.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 984624,
+                "male": 1033383,
+                "percentage": 17.22,
+                "total": 2018007
+            },
+            "r15_24": {
+                "female": 642145,
+                "male": 670724,
+                "percentage": 11.2,
+                "total": 1312869
+            },
+            "r25_54": {
+                "female": 2278450,
+                "male": 2319777,
+                "percentage": 39.23,
+                "total": 4598227
+            },
+            "r55_64": {
+                "female": 775454,
+                "male": 764902,
+                "percentage": 13.14,
+                "total": 1540356
+            },
+            "r65_more": {
+                "female": 1263109,
+                "male": 988148,
+                "percentage": 19.21,
+                "total": 2251257
+            }
+        }
+    },
+    "Bhutan": {
+        "expectancyAge": 71.129,
+        "mediumAge": 29.1,
+        "rangeAge": {
+            "r0_14": {
+                "female": 93740,
+                "male": 98113,
+                "percentage": 24.52,
+                "total": 191853
+            },
+            "r15_24": {
+                "female": 68211,
+                "male": 70768,
+                "percentage": 17.77,
+                "total": 138979
+            },
+            "r25_54": {
+                "female": 165374,
+                "male": 184500,
+                "percentage": 44.72,
+                "total": 349874
+            },
+            "r55_64": {
+                "female": 23280,
+                "male": 26714,
+                "percentage": 6.39,
+                "total": 49994
+            },
+            "r65_more": {
+                "female": 24821,
+                "male": 26797,
+                "percentage": 6.6,
+                "total": 51618
+            }
+        }
+    },
+    "Bosnia and Herzegovina": {
+        "expectancyAge": 77.128,
+        "mediumAge": 43.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 244242,
+                "male": 261430,
+                "percentage": 13.18,
+                "total": 505672
+            },
+            "r15_24": {
+                "female": 201214,
+                "male": 214319,
+                "percentage": 10.83,
+                "total": 415533
+            },
+            "r25_54": {
+                "female": 848071,
+                "male": 859509,
+                "percentage": 44.52,
+                "total": 1707580
+            },
+            "r55_64": {
+                "female": 300168,
+                "male": 284415,
+                "percentage": 15.24,
+                "total": 584583
+            },
+            "r65_more": {
+                "female": 372594,
+                "male": 249624,
+                "percentage": 16.22,
+                "total": 622218
+            }
+        }
+    },
+    "Brazil": {
+        "expectancyAge": 75.456,
+        "mediumAge": 33.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 21907018,
+                "male": 22790634,
+                "percentage": 21.11,
+                "total": 44697652
+            },
+            "r15_24": {
+                "female": 16750581,
+                "male": 17254363,
+                "percentage": 16.06,
+                "total": 34004944
+            },
+            "r25_54": {
+                "female": 46729640,
+                "male": 46070240,
+                "percentage": 43.83,
+                "total": 92799880
+            },
+            "r55_64": {
+                "female": 10911140,
+                "male": 9802995,
+                "percentage": 9.78,
+                "total": 20714135
+            },
+            "r65_more": {
+                "female": 11176018,
+                "male": 8323344,
+                "percentage": 9.21,
+                "total": 19499362
+            }
+        }
+    },
+    "Bulgaria": {
+        "expectancyAge": 74.8121951219512,
+        "mediumAge": 43.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 491506,
+                "male": 520190,
+                "percentage": 14.52,
+                "total": 1011696
+            },
+            "r15_24": {
+                "female": 314241,
+                "male": 340306,
+                "percentage": 9.4,
+                "total": 654547
+            },
+            "r25_54": {
+                "female": 1448080,
+                "male": 1538593,
+                "percentage": 42.87,
+                "total": 2986673
+            },
+            "r55_64": {
+                "female": 482474,
+                "male": 433943,
+                "percentage": 13.15,
+                "total": 916417
+            },
+            "r65_more": {
+                "female": 835053,
+                "male": 562513,
+                "percentage": 20.06,
+                "total": 1397566
+            }
+        }
+    },
+    "Burkina Faso": {
+        "expectancyAge": 60.768,
+        "mediumAge": null,
+        "rangeAge": {
+            "r0_14": {
+                "female": 4473951,
+                "male": 4606350,
+                "percentage": 43.58,
+                "total": 9080301
+            },
+            "r15_24": {
+                "female": 2114213,
+                "male": 2121012,
+                "percentage": 20.33,
+                "total": 4235225
+            },
+            "r25_54": {
+                "female": 3265926,
+                "male": 2850621,
+                "percentage": 29.36,
+                "total": 6116547
+            },
+            "r55_64": {
+                "female": 423016,
+                "male": 321417,
+                "percentage": 3.57,
+                "total": 744433
+            },
+            "r65_more": {
+                "female": 374057,
+                "male": 284838,
+                "percentage": 3.16,
+                "total": 658895
+            }
+        }
+    },
+    "Cambodia": {
+        "expectancyAge": 69.289,
+        "mediumAge": 26.4,
+        "rangeAge": {
+            "r0_14": {
+                "female": 2525619,
+                "male": 2582427,
+                "percentage": 30.18,
+                "total": 5108046
+            },
+            "r15_24": {
+                "female": 1472769,
+                "male": 1452784,
+                "percentage": 17.28,
+                "total": 2925553
+            },
+            "r25_54": {
+                "female": 3584592,
+                "male": 3442051,
+                "percentage": 41.51,
+                "total": 7026643
+            },
+            "r55_64": {
+                "female": 612706,
+                "male": 476561,
+                "percentage": 6.44,
+                "total": 1089267
+            },
+            "r65_more": {
+                "female": 490454,
+                "male": 287021,
+                "percentage": 4.59,
+                "total": 777475
+            }
+        }
+    },
+    "Cameroon": {
+        "expectancyAge": 58.511,
+        "mediumAge": 18.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 5820226,
+                "male": 5927640,
+                "percentage": 42.34,
+                "total": 11747866
+            },
+            "r15_24": {
+                "female": 2776873,
+                "male": 2782376,
+                "percentage": 20.04,
+                "total": 5559249
+            },
+            "r25_54": {
+                "female": 4309483,
+                "male": 4191151,
+                "percentage": 30.64,
+                "total": 8500634
+            },
+            "r55_64": {
+                "female": 552801,
+                "male": 520771,
+                "percentage": 3.87,
+                "total": 1073572
+            },
+            "r65_more": {
+                "female": 460248,
+                "male": 403420,
+                "percentage": 3.11,
+                "total": 863668
+            }
+        }
+    },
+    "Canada": {
+        "expectancyAge": 82.2489756097561,
+        "mediumAge": 41.8,
+        "rangeAge": {
+            "r0_14": {
+                "female": 2931953,
+                "male": 3094008,
+                "percentage": 15.99,
+                "total": 6025961
+            },
+            "r15_24": {
+                "female": 2032064,
+                "male": 2167013,
+                "percentage": 11.14,
+                "total": 4199077
+            },
+            "r25_54": {
+                "female": 7478737,
+                "male": 7527554,
+                "percentage": 39.81,
+                "total": 15006291
+            },
+            "r55_64": {
+                "female": 2682858,
+                "male": 2624474,
+                "percentage": 14.08,
+                "total": 5307332
+            },
+            "r65_more": {
+                "female": 3881126,
+                "male": 3274298,
+                "percentage": 18.98,
+                "total": 7155424
+            }
+        }
+    },
+    "Channel Islands": {
+        "expectancyAge": 82.766,
+        "mediumAge": null,
+        "rangeAge": "N/A"
+    },
+    "Chile": {
+        "expectancyAge": 79.909,
+        "mediumAge": 35.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1763124,
+                "male": 1836240,
+                "percentage": 19.79,
+                "total": 3599364
+            },
+            "r15_24": {
+                "female": 1233238,
+                "male": 1283710,
+                "percentage": 13.84,
+                "total": 2516948
+            },
+            "r25_54": {
+                "female": 3860700,
+                "male": 3882405,
+                "percentage": 42.58,
+                "total": 7743105
+            },
+            "r55_64": {
+                "female": 1145022,
+                "male": 1034049,
+                "percentage": 11.98,
+                "total": 2179071
+            },
+            "r65_more": {
+                "female": 1245890,
+                "male": 902392,
+                "percentage": 11.81,
+                "total": 2148282
+            }
+        }
+    },
+    "Colombia": {
+        "expectancyAge": 76.925,
+        "mediumAge": 31.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 5567196,
+                "male": 5853351,
+                "percentage": 23.27,
+                "total": 11420547
+            },
+            "r15_24": {
+                "female": 3939870,
+                "male": 4098421,
+                "percentage": 16.38,
+                "total": 8038291
+            },
+            "r25_54": {
+                "female": 10365423,
+                "male": 10270516,
+                "percentage": 42.04,
+                "total": 20635939
+            },
+            "r55_64": {
+                "female": 2566173,
+                "male": 2307705,
+                "percentage": 9.93,
+                "total": 4873878
+            },
+            "r65_more": {
+                "female": 2390725,
+                "male": 1725461,
+                "percentage": 8.39,
+                "total": 4116186
+            }
+        }
+    },
+    "Costa Rica": {
+        "expectancyAge": 79.914,
+        "mediumAge": 32.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 549802,
+                "male": 575731,
+                "percentage": 22.08,
+                "total": 1125533
+            },
+            "r15_24": {
+                "female": 379277,
+                "male": 395202,
+                "percentage": 15.19,
+                "total": 774479
+            },
+            "r25_54": {
+                "female": 1111791,
+                "male": 1130387,
+                "percentage": 43.98,
+                "total": 2242178
+            },
+            "r55_64": {
+                "female": 261847,
+                "male": 247267,
+                "percentage": 9.99,
+                "total": 509114
+            },
+            "r65_more": {
+                "female": 241221,
+                "male": 205463,
+                "percentage": 8.76,
+                "total": 446684
+            }
+        }
+    },
+    "Croatia": {
+        "expectancyAge": 77.8268292682927,
+        "mediumAge": 43.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 289996,
+                "male": 308668,
+                "percentage": 14.16,
+                "total": 598664
+            },
+            "r15_24": {
+                "female": 221495,
+                "male": 233602,
+                "percentage": 10.76,
+                "total": 455097
+            },
+            "r25_54": {
+                "female": 839601,
+                "male": 841930,
+                "percentage": 39.77,
+                "total": 1681531
+            },
+            "r55_64": {
+                "female": 310969,
+                "male": 290982,
+                "percentage": 14.24,
+                "total": 601951
+            },
+            "r65_more": {
+                "female": 526427,
+                "male": 364076,
+                "percentage": 21.06,
+                "total": 890503
+            }
+        }
+    },
+    "Cyprus": {
+        "expectancyAge": 80.672,
+        "mediumAge": 37.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 96676,
+                "male": 102095,
+                "percentage": 15.69,
+                "total": 198771
+            },
+            "r15_24": {
+                "female": 70879,
+                "male": 84832,
+                "percentage": 12.29,
+                "total": 155711
+            },
+            "r25_54": {
+                "female": 280167,
+                "male": 316710,
+                "percentage": 47.12,
+                "total": 596877
+            },
+            "r55_64": {
+                "female": 78511,
+                "male": 72476,
+                "percentage": 11.92,
+                "total": 150987
+            },
+            "r65_more": {
+                "female": 93277,
+                "male": 71053,
+                "percentage": 12.97,
+                "total": 164330
+            }
+        }
+    },
+    "Czech Republic": {
+        "expectancyAge": 79.4756097560976,
+        "mediumAge": 43.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 789328,
+                "male": 834447,
+                "percentage": 15.17,
+                "total": 1623775
+            },
+            "r15_24": {
+                "female": 475846,
+                "male": 508329,
+                "percentage": 9.2,
+                "total": 984175
+            },
+            "r25_54": {
+                "female": 2249774,
+                "male": 2382899,
+                "percentage": 43.29,
+                "total": 4632673
+            },
+            "r55_64": {
+                "female": 660748,
+                "male": 636357,
+                "percentage": 12.12,
+                "total": 1297105
+            },
+            "r65_more": {
+                "female": 1257515,
+                "male": 907255,
+                "percentage": 20.23,
+                "total": 2164770
+            }
+        }
+    },
+    "Denmark": {
+        "expectancyAge": 81.0048780487805,
+        "mediumAge": 42.0,
+        "rangeAge": {
+            "r0_14": {
+                "female": 469005,
+                "male": 494806,
+                "percentage": 16.42,
+                "total": 963811
+            },
+            "r15_24": {
+                "female": 352977,
+                "male": 370557,
+                "percentage": 12.33,
+                "total": 723534
+            },
+            "r25_54": {
+                "female": 1122016,
+                "male": 1149991,
+                "percentage": 38.71,
+                "total": 2272007
+            },
+            "r55_64": {
+                "female": 371149,
+                "male": 370338,
+                "percentage": 12.63,
+                "total": 741487
+            },
+            "r65_more": {
+                "female": 630475,
+                "male": 538096,
+                "percentage": 19.91,
+                "total": 1168571
+            }
+        }
+    },
+    "Dominican Republic": {
+        "expectancyAge": 73.689,
+        "mediumAge": 27.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1385987,
+                "male": 1433166,
+                "percentage": 26.85,
+                "total": 2819153
+            },
+            "r15_24": {
+                "female": 937227,
+                "male": 968391,
+                "percentage": 18.15,
+                "total": 1905618
+            },
+            "r25_54": {
+                "female": 2088926,
+                "male": 2168122,
+                "percentage": 40.54,
+                "total": 4257048
+            },
+            "r55_64": {
+                "female": 428508,
+                "male": 429042,
+                "percentage": 8.17,
+                "total": 857550
+            },
+            "r65_more": {
+                "female": 350076,
+                "male": 310262,
+                "percentage": 6.29,
+                "total": 660338
+            }
+        }
+    },
+    "Ecuador": {
+        "expectancyAge": 76.584,
+        "mediumAge": 28.8,
+        "rangeAge": {
+            "r0_14": {
+                "female": 2138219,
+                "male": 2226240,
+                "percentage": 25.82,
+                "total": 4364459
+            },
+            "r15_24": {
+                "female": 1478222,
+                "male": 1531545,
+                "percentage": 17.8,
+                "total": 3009767
+            },
+            "r25_54": {
+                "female": 3480262,
+                "male": 3333650,
+                "percentage": 40.31,
+                "total": 6813912
+            },
+            "r55_64": {
+                "female": 691759,
+                "male": 647718,
+                "percentage": 7.92,
+                "total": 1339477
+            },
+            "r65_more": {
+                "female": 728491,
+                "male": 648761,
+                "percentage": 8.15,
+                "total": 1377252
+            }
+        }
+    },
+    "Egypt": {
+        "expectancyAge": 71.656,
+        "mediumAge": 24.1,
+        "rangeAge": {
+            "r0_14": {
+                "female": 16889155,
+                "male": 18112550,
+                "percentage": 33.62,
+                "total": 35001705
+            },
+            "r15_24": {
+                "female": 9071163,
+                "male": 9684437,
+                "percentage": 18.01,
+                "total": 18755600
+            },
+            "r25_54": {
+                "female": 19376847,
+                "male": 20032310,
+                "percentage": 37.85,
+                "total": 39409157
+            },
+            "r55_64": {
+                "female": 3172544,
+                "male": 3160438,
+                "percentage": 6.08,
+                "total": 6332982
+            },
+            "r65_more": {
+                "female": 2411457,
+                "male": 2213539,
+                "percentage": 4.44,
+                "total": 4624996
+            }
+        }
+    },
+    "Estonia": {
+        "expectancyAge": 77.6414634146342,
+        "mediumAge": 43.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 97116,
+                "male": 102191,
+                "percentage": 16.22,
+                "total": 199307
+            },
+            "r15_24": {
+                "female": 52378,
+                "male": 56484,
+                "percentage": 8.86,
+                "total": 108862
+            },
+            "r25_54": {
+                "female": 243382,
+                "male": 252273,
+                "percentage": 40.34,
+                "total": 495655
+            },
+            "r55_64": {
+                "female": 90576,
+                "male": 76251,
+                "percentage": 13.58,
+                "total": 166827
+            },
+            "r65_more": {
+                "female": 168762,
+                "male": 89211,
+                "percentage": 21.0,
+                "total": 257973
+            }
+        }
+    },
+    "Faroe Islands": {
+        "expectancyAge": 82.4,
+        "mediumAge": 37.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 4920,
+                "male": 5247,
+                "percentage": 19.69,
+                "total": 10167
+            },
+            "r15_24": {
+                "female": 3465,
+                "male": 3708,
+                "percentage": 13.89,
+                "total": 7173
+            },
+            "r25_54": {
+                "female": 8828,
+                "male": 10277,
+                "percentage": 37.01,
+                "total": 19105
+            },
+            "r55_64": {
+                "female": 2996,
+                "male": 3199,
+                "percentage": 12.0,
+                "total": 6195
+            },
+            "r65_more": {
+                "female": 4636,
+                "male": 4352,
+                "percentage": 17.41,
+                "total": 8988
+            }
+        }
+    },
+    "Finland": {
+        "expectancyAge": 81.4292682926829,
+        "mediumAge": 42.8,
+        "rangeAge": {
+            "r0_14": {
+                "female": 447005,
+                "male": 467220,
+                "percentage": 16.41,
+                "total": 914225
+            },
+            "r15_24": {
+                "female": 297717,
+                "male": 312179,
+                "percentage": 10.95,
+                "total": 609896
+            },
+            "r25_54": {
+                "female": 1017545,
+                "male": 1064326,
+                "percentage": 37.37,
+                "total": 2081871
+            },
+            "r55_64": {
+                "female": 367610,
+                "male": 357687,
+                "percentage": 13.02,
+                "total": 725297
+            },
+            "r65_more": {
+                "female": 697045,
+                "male": 543331,
+                "percentage": 22.26,
+                "total": 1240376
+            }
+        }
+    },
+    "France": {
+        "expectancyAge": 82.5243902439024,
+        "mediumAge": 41.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 6085318,
+                "male": 6368767,
+                "percentage": 18.36,
+                "total": 12454085
+            },
+            "r15_24": {
+                "female": 3938938,
+                "male": 4122981,
+                "percentage": 11.88,
+                "total": 8061919
+            },
+            "r25_54": {
+                "female": 12366120,
+                "male": 12619649,
+                "percentage": 36.83,
+                "total": 24985769
+            },
+            "r55_64": {
+                "female": 4376272,
+                "male": 4085564,
+                "percentage": 12.47,
+                "total": 8461836
+            },
+            "r65_more": {
+                "female": 7855244,
+                "male": 6029303,
+                "percentage": 20.46,
+                "total": 13884547
+            }
+        }
+    },
+    "French Guiana": {
+        "expectancyAge": null,
+        "mediumAge": null,
+        "rangeAge": "N/A"
+    },
+    "Georgia": {
+        "expectancyAge": 73.414,
+        "mediumAge": 38.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 435174,
+                "male": 472731,
+                "percentage": 18.42,
+                "total": 907905
+            },
+            "r15_24": {
+                "female": 250882,
+                "male": 286518,
+                "percentage": 10.9,
+                "total": 537400
+            },
+            "r25_54": {
+                "female": 1016353,
+                "male": 984942,
+                "percentage": 40.59,
+                "total": 2001295
+            },
+            "r55_64": {
+                "female": 364117,
+                "male": 288650,
+                "percentage": 13.24,
+                "total": 652767
+            },
+            "r65_more": {
+                "female": 504444,
+                "male": 326219,
+                "percentage": 16.85,
+                "total": 830663
+            }
+        }
+    },
+    "Germany": {
+        "expectancyAge": 80.990243902439,
+        "mediumAge": 47.8,
+        "rangeAge": {
+            "r0_14": {
+                "female": 5025863,
+                "male": 5302850,
+                "percentage": 12.89,
+                "total": 10328713
+            },
+            "r15_24": {
+                "female": 3854471,
+                "male": 4012412,
+                "percentage": 9.81,
+                "total": 7866883
+            },
+            "r25_54": {
+                "female": 15370417,
+                "male": 15553328,
+                "percentage": 38.58,
+                "total": 30923745
+            },
+            "r55_64": {
+                "female": 6316024,
+                "male": 6297886,
+                "percentage": 15.74,
+                "total": 12613910
+            },
+            "r65_more": {
+                "female": 10277538,
+                "male": 8148873,
+                "percentage": 22.99,
+                "total": 18426411
+            }
+        }
+    },
+    "Gibraltar": {
+        "expectancyAge": null,
+        "mediumAge": 35.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 2907,
+                "male": 3080,
+                "percentage": 20.24,
+                "total": 5987
+            },
+            "r15_24": {
+                "female": 1866,
+                "male": 2000,
+                "percentage": 13.07,
+                "total": 3866
+            },
+            "r25_54": {
+                "female": 5922,
+                "male": 6289,
+                "percentage": 41.28,
+                "total": 12211
+            },
+            "r55_64": {
+                "female": 1495,
+                "male": 1082,
+                "percentage": 8.71,
+                "total": 2577
+            },
+            "r65_more": {
+                "female": 2562,
+                "male": 2378,
+                "percentage": 16.7,
+                "total": 4940
+            }
+        }
+    },
+    "Greece": {
+        "expectancyAge": 81.3878048780488,
+        "mediumAge": 45.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 745909,
+                "male": 794918,
+                "percentage": 14.53,
+                "total": 1540827
+            },
+            "r15_24": {
+                "female": 519819,
+                "male": 577134,
+                "percentage": 10.34,
+                "total": 1096953
+            },
+            "r25_54": {
+                "female": 2119995,
+                "male": 2080443,
+                "percentage": 39.6,
+                "total": 4200438
+            },
+            "r55_64": {
+                "female": 732936,
+                "male": 656404,
+                "percentage": 13.1,
+                "total": 1389340
+            },
+            "r65_more": {
+                "female": 1322176,
+                "male": 1057317,
+                "percentage": 22.43,
+                "total": 2379493
+            }
+        }
+    },
+    "Hong Kong": {
+        "expectancyAge": 84.6804878048781,
+        "mediumAge": 45.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 437971,
+                "male": 490477,
+                "percentage": 12.81,
+                "total": 928448
+            },
+            "r15_24": {
+                "female": 303897,
+                "male": 334836,
+                "percentage": 8.81,
+                "total": 638733
+            },
+            "r25_54": {
+                "female": 1763970,
+                "male": 1328529,
+                "percentage": 42.66,
+                "total": 3092499
+            },
+            "r55_64": {
+                "female": 668051,
+                "male": 582047,
+                "percentage": 17.24,
+                "total": 1250098
+            },
+            "r65_more": {
+                "female": 714676,
+                "male": 625453,
+                "percentage": 18.48,
+                "total": 1340129
+            }
+        }
+    },
+    "Hungary": {
+        "expectancyAge": 76.0634146341464,
+        "mediumAge": 43.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 689739,
+                "male": 731542,
+                "percentage": 14.54,
+                "total": 1421281
+            },
+            "r15_24": {
+                "female": 492388,
+                "male": 526933,
+                "percentage": 10.43,
+                "total": 1019321
+            },
+            "r25_54": {
+                "female": 2044664,
+                "male": 2075763,
+                "percentage": 42.17,
+                "total": 4120427
+            },
+            "r55_64": {
+                "female": 636107,
+                "male": 552876,
+                "percentage": 12.17,
+                "total": 1188983
+            },
+            "r65_more": {
+                "female": 1248658,
+                "male": 773157,
+                "percentage": 20.69,
+                "total": 2021815
+            }
+        }
+    },
+    "Iceland": {
+        "expectancyAge": 82.2048780487805,
+        "mediumAge": 37.1,
+        "rangeAge": {
+            "r0_14": {
+                "female": 34837,
+                "male": 36394,
+                "percentage": 20.31,
+                "total": 71231
+            },
+            "r15_24": {
+                "female": 22317,
+                "male": 22748,
+                "percentage": 12.85,
+                "total": 45065
+            },
+            "r25_54": {
+                "female": 68095,
+                "male": 70227,
+                "percentage": 39.44,
+                "total": 138322
+            },
+            "r55_64": {
+                "female": 21111,
+                "male": 20762,
+                "percentage": 11.94,
+                "total": 41873
+            },
+            "r65_more": {
+                "female": 28697,
+                "male": 25546,
+                "percentage": 15.47,
+                "total": 54243
+            }
+        }
+    },
+    "India": {
+        "expectancyAge": 69.165,
+        "mediumAge": 28.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 163844572,
+                "male": 185017089,
+                "percentage": 26.31,
+                "total": 348861661
+            },
+            "r15_24": {
+                "female": 108739780,
+                "male": 123423531,
+                "percentage": 17.51,
+                "total": 232163311
+            },
+            "r25_54": {
+                "female": 265842319,
+                "male": 285275667,
+                "percentage": 41.56,
+                "total": 551117986
+            },
+            "r55_64": {
+                "female": 52447038,
+                "male": 52444817,
+                "percentage": 7.91,
+                "total": 104891855
+            },
+            "r65_more": {
+                "female": 47003975,
+                "male": 42054459,
+                "percentage": 6.72,
+                "total": 89058434
+            }
+        }
+    },
+    "Indonesia": {
+        "expectancyAge": 71.282,
+        "mediumAge": 31.1,
+        "rangeAge": {
+            "r0_14": {
+                "female": 31264034,
+                "male": 32473246,
+                "percentage": 23.87,
+                "total": 63737280
+            },
+            "r15_24": {
+                "female": 21960130,
+                "male": 22786920,
+                "percentage": 16.76,
+                "total": 44747050
+            },
+            "r25_54": {
+                "female": 55409579,
+                "male": 58249570,
+                "percentage": 42.56,
+                "total": 113659149
+            },
+            "r55_64": {
+                "female": 12968005,
+                "male": 11033838,
+                "percentage": 8.99,
+                "total": 24001843
+            },
+            "r65_more": {
+                "female": 11781271,
+                "male": 9099773,
+                "percentage": 7.82,
+                "total": 20881044
+            }
+        }
+    },
+    "Iran": {
+        "expectancyAge": 76.271,
+        "mediumAge": 31.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 10000028,
+                "male": 10472844,
+                "percentage": 24.11,
+                "total": 20472872
+            },
+            "r15_24": {
+                "female": 5537561,
+                "male": 5806034,
+                "percentage": 13.36,
+                "total": 11343595
+            },
+            "r25_54": {
+                "female": 20327384,
+                "male": 21235038,
+                "percentage": 48.94,
+                "total": 41562422
+            },
+            "r55_64": {
+                "female": 3337420,
+                "male": 3220074,
+                "percentage": 7.72,
+                "total": 6557494
+            },
+            "r65_more": {
+                "female": 2670254,
+                "male": 2316677,
+                "percentage": 5.87,
+                "total": 4986931
+            }
+        }
+    },
+    "Iraq": {
+        "expectancyAge": 70.294,
+        "mediumAge": 21.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 7041405,
+                "male": 7349868,
+                "percentage": 37.02,
+                "total": 14391273
+            },
+            "r15_24": {
+                "female": 3788157,
+                "male": 3918433,
+                "percentage": 19.83,
+                "total": 7706590
+            },
+            "r25_54": {
+                "female": 6914856,
+                "male": 6919569,
+                "percentage": 35.59,
+                "total": 13834425
+            },
+            "r55_64": {
+                "female": 839137,
+                "male": 805397,
+                "percentage": 4.23,
+                "total": 1644534
+            },
+            "r65_more": {
+                "female": 719240,
+                "male": 576593,
+                "percentage": 3.33,
+                "total": 1295833
+            }
+        }
+    },
+    "Ireland": {
+        "expectancyAge": 81.9560975609756,
+        "mediumAge": 37.8,
+        "rangeAge": {
+            "r0_14": {
+                "female": 534570,
+                "male": 560338,
+                "percentage": 21.15,
+                "total": 1094908
+            },
+            "r15_24": {
+                "female": 308872,
+                "male": 316239,
+                "percentage": 12.08,
+                "total": 625111
+            },
+            "r25_54": {
+                "female": 1085794,
+                "male": 1098058,
+                "percentage": 42.19,
+                "total": 2183852
+            },
+            "r55_64": {
+                "female": 278498,
+                "male": 278836,
+                "percentage": 10.77,
+                "total": 557334
+            },
+            "r65_more": {
+                "female": 383592,
+                "male": 331772,
+                "percentage": 13.82,
+                "total": 715364
+            }
+        }
+    },
+    "Israel": {
+        "expectancyAge": 82.6024390243903,
+        "mediumAge": 30.4,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1133365,
+                "male": 1187819,
+                "percentage": 26.76,
+                "total": 2321184
+            },
+            "r15_24": {
+                "female": 665721,
+                "male": 694142,
+                "percentage": 15.67,
+                "total": 1359863
+            },
+            "r25_54": {
+                "female": 1579399,
+                "male": 1648262,
+                "percentage": 37.2,
+                "total": 3227661
+            },
+            "r55_64": {
+                "female": 365709,
+                "male": 363262,
+                "percentage": 8.4,
+                "total": 728971
+            },
+            "r65_more": {
+                "female": 569816,
+                "male": 467980,
+                "percentage": 11.96,
+                "total": 1037796
+            }
+        }
+    },
+    "Italy": {
+        "expectancyAge": 83.2439024390244,
+        "mediumAge": 46.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 4097732,
+                "male": 4292431,
+                "percentage": 13.45,
+                "total": 8390163
+            },
+            "r15_24": {
+                "female": 2989764,
+                "male": 3005402,
+                "percentage": 9.61,
+                "total": 5995166
+            },
+            "r25_54": {
+                "female": 12921614,
+                "male": 12577764,
+                "percentage": 40.86,
+                "total": 25499378
+            },
+            "r55_64": {
+                "female": 4493581,
+                "male": 4243735,
+                "percentage": 14.0,
+                "total": 8737316
+            },
+            "r65_more": {
+                "female": 7831076,
+                "male": 5949560,
+                "percentage": 22.08,
+                "total": 13780636
+            }
+        }
+    },
+    "Ivory Coast": {
+        "expectancyAge": 57.017,
+        "mediumAge": 20.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 5276219,
+                "male": 5311971,
+                "percentage": 38.53,
+                "total": 10588190
+            },
+            "r15_24": {
+                "female": 2779012,
+                "male": 2774374,
+                "percentage": 20.21,
+                "total": 5553386
+            },
+            "r25_54": {
+                "female": 4719286,
+                "male": 4866957,
+                "percentage": 34.88,
+                "total": 9586243
+            },
+            "r55_64": {
+                "female": 476060,
+                "male": 494000,
+                "percentage": 3.53,
+                "total": 970060
+            },
+            "r65_more": {
+                "female": 433385,
+                "male": 349822,
+                "percentage": 2.85,
+                "total": 783207
+            }
+        }
+    },
+    "Japan": {
+        "expectancyAge": 84.099756097561,
+        "mediumAge": 48.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 7623767,
+                "male": 8047183,
+                "percentage": 12.49,
+                "total": 15670950
+            },
+            "r15_24": {
+                "female": 5635377,
+                "male": 6254352,
+                "percentage": 9.47,
+                "total": 11889729
+            },
+            "r25_54": {
+                "female": 23317140,
+                "male": 22867385,
+                "percentage": 36.8,
+                "total": 46184525
+            },
+            "r55_64": {
+                "female": 7570732,
+                "male": 7564067,
+                "percentage": 12.06,
+                "total": 15134799
+            },
+            "r65_more": {
+                "female": 20592496,
+                "male": 16034973,
+                "percentage": 29.18,
+                "total": 36627469
+            }
+        }
+    },
+    "Jordan": {
+        "expectancyAge": 74.292,
+        "mediumAge": 23.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1738935,
+                "male": 1837696,
+                "percentage": 33.05,
+                "total": 3576631
+            },
+            "r15_24": {
+                "female": 1012812,
+                "male": 1126567,
+                "percentage": 19.77,
+                "total": 2139379
+            },
+            "r25_54": {
+                "female": 1903996,
+                "male": 2250328,
+                "percentage": 38.39,
+                "total": 4154324
+            },
+            "r55_64": {
+                "female": 262827,
+                "male": 290633,
+                "percentage": 5.11,
+                "total": 553460
+            },
+            "r65_more": {
+                "female": 202386,
+                "male": 194464,
+                "percentage": 3.67,
+                "total": 396850
+            }
+        }
+    },
+    "Kuwait": {
+        "expectancyAge": 75.311,
+        "mediumAge": 29.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 348512,
+                "male": 378778,
+                "percentage": 24.29,
+                "total": 727290
+            },
+            "r15_24": {
+                "female": 202642,
+                "male": 245354,
+                "percentage": 14.96,
+                "total": 447996
+            },
+            "r25_54": {
+                "female": 583632,
+                "male": 984813,
+                "percentage": 52.39,
+                "total": 1568445
+            },
+            "r55_64": {
+                "female": 72026,
+                "male": 90583,
+                "percentage": 5.43,
+                "total": 162609
+            },
+            "r65_more": {
+                "female": 48752,
+                "male": 38614,
+                "percentage": 2.92,
+                "total": 87366
+            }
+        }
+    },
+    "Latvia": {
+        "expectancyAge": 74.6804878048781,
+        "mediumAge": 44.4,
+        "rangeAge": {
+            "r0_14": {
+                "female": 140028,
+                "male": 148120,
+                "percentage": 15.32,
+                "total": 288148
+            },
+            "r15_24": {
+                "female": 81965,
+                "male": 87372,
+                "percentage": 9.0,
+                "total": 169337
+            },
+            "r25_54": {
+                "female": 379359,
+                "male": 380817,
+                "percentage": 40.41,
+                "total": 760176
+            },
+            "r55_64": {
+                "female": 152548,
+                "male": 125401,
+                "percentage": 14.77,
+                "total": 277949
+            },
+            "r65_more": {
+                "female": 257471,
+                "male": 128151,
+                "percentage": 20.5,
+                "total": 385622
+            }
+        }
+    },
+    "Lebanon": {
+        "expectancyAge": 78.833,
+        "mediumAge": 33.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 554175,
+                "male": 581015,
+                "percentage": 20.75,
+                "total": 1135190
+            },
+            "r15_24": {
+                "female": 401357,
+                "male": 417739,
+                "percentage": 14.98,
+                "total": 819096
+            },
+            "r25_54": {
+                "female": 1257273,
+                "male": 1296250,
+                "percentage": 46.69,
+                "total": 2553523
+            },
+            "r55_64": {
+                "female": 275670,
+                "male": 250653,
+                "percentage": 9.62,
+                "total": 526323
+            },
+            "r65_more": {
+                "female": 248479,
+                "male": 187001,
+                "percentage": 7.96,
+                "total": 435480
+            }
+        }
+    },
+    "Liechtenstein": {
+        "expectancyAge": 82.2585365853659,
+        "mediumAge": 43.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 2688,
+                "male": 3259,
+                "percentage": 15.2,
+                "total": 5947
+            },
+            "r15_24": {
+                "female": 2181,
+                "male": 2238,
+                "percentage": 11.29,
+                "total": 4419
+            },
+            "r25_54": {
+                "female": 7872,
+                "male": 7869,
+                "percentage": 40.22,
+                "total": 15741
+            },
+            "r55_64": {
+                "female": 2930,
+                "male": 2711,
+                "percentage": 14.41,
+                "total": 5641
+            },
+            "r65_more": {
+                "female": 3986,
+                "male": 3403,
+                "percentage": 18.88,
+                "total": 7389
+            }
+        }
+    },
+    "Lithuania": {
+        "expectancyAge": 74.6707317073171,
+        "mediumAge": 44.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 202948,
+                "male": 213802,
+                "percentage": 15.26,
+                "total": 416750
+            },
+            "r15_24": {
+                "female": 134822,
+                "male": 144679,
+                "percentage": 10.23,
+                "total": 279501
+            },
+            "r25_54": {
+                "female": 535485,
+                "male": 528706,
+                "percentage": 38.96,
+                "total": 1064191
+            },
+            "r55_64": {
+                "female": 228585,
+                "male": 183854,
+                "percentage": 15.1,
+                "total": 412439
+            },
+            "r65_more": {
+                "female": 368558,
+                "male": 190025,
+                "percentage": 20.45,
+                "total": 558583
+            }
+        }
+    },
+    "Luxembourg": {
+        "expectancyAge": 82.6853658536585,
+        "mediumAge": 39.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 51004,
+                "male": 54099,
+                "percentage": 16.73,
+                "total": 105103
+            },
+            "r15_24": {
+                "female": 36061,
+                "male": 37946,
+                "percentage": 11.78,
+                "total": 74007
+            },
+            "r25_54": {
+                "female": 134531,
+                "male": 141535,
+                "percentage": 43.93,
+                "total": 276066
+            },
+            "r55_64": {
+                "female": 37337,
+                "male": 39289,
+                "percentage": 12.19,
+                "total": 76626
+            },
+            "r65_more": {
+                "female": 52984,
+                "male": 43595,
+                "percentage": 15.37,
+                "total": 96579
+            }
+        }
+    },
+    "Macau": {
+        "expectancyAge": 83.989,
+        "mediumAge": 40.8,
+        "rangeAge": {
+            "r0_14": {
+                "female": 40051,
+                "male": 42449,
+                "percentage": 13.43,
+                "total": 82500
+            },
+            "r15_24": {
+                "female": 30354,
+                "male": 33845,
+                "percentage": 10.45,
+                "total": 64199
+            },
+            "r25_54": {
+                "female": 166762,
+                "male": 134302,
+                "percentage": 49.0,
+                "total": 301064
+            },
+            "r55_64": {
+                "female": 45007,
+                "male": 44512,
+                "percentage": 14.57,
+                "total": 89519
+            },
+            "r65_more": {
+                "female": 40953,
+                "male": 36223,
+                "percentage": 12.56,
+                "total": 77176
+            }
+        }
+    },
+    "Mainland China": {
+        "expectancyAge": 76.47,
+        "mediumAge": 38.4,
+        "rangeAge": {
+            "r0_14": {
+                "female": 111782427,
+                "male": 129296339,
+                "percentage": 17.29,
+                "total": 241078766
+            },
+            "r15_24": {
+                "female": 73876148,
+                "male": 86129841,
+                "percentage": 11.48,
+                "total": 160005989
+            },
+            "r25_54": {
+                "female": 318711557,
+                "male": 333789731,
+                "percentage": 46.81,
+                "total": 652501288
+            },
+            "r55_64": {
+                "female": 83557507,
+                "male": 84827645,
+                "percentage": 12.08,
+                "total": 168385152
+            },
+            "r65_more": {
+                "female": 90458292,
+                "male": 81586490,
+                "percentage": 12.34,
+                "total": 172044782
+            }
+        }
+    },
+    "Malaysia": {
+        "expectancyAge": 75.828,
+        "mediumAge": 29.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 4246681,
+                "male": 4504562,
+                "percentage": 26.8,
+                "total": 8751243
+            },
+            "r15_24": {
+                "female": 2670186,
+                "male": 2760244,
+                "percentage": 16.63,
+                "total": 5430430
+            },
+            "r25_54": {
+                "female": 6604776,
+                "male": 6737826,
+                "percentage": 40.86,
+                "total": 13342602
+            },
+            "r55_64": {
+                "female": 1418280,
+                "male": 1458038,
+                "percentage": 8.81,
+                "total": 2876318
+            },
+            "r65_more": {
+                "female": 1184863,
+                "male": 1066627,
+                "percentage": 6.9,
+                "total": 2251490
+            }
+        }
+    },
+    "Maldives": {
+        "expectancyAge": 78.325,
+        "mediumAge": 29.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 42477,
+                "male": 44260,
+                "percentage": 22.13,
+                "total": 86737
+            },
+            "r15_24": {
+                "female": 29745,
+                "male": 37826,
+                "percentage": 17.24,
+                "total": 67571
+            },
+            "r25_54": {
+                "female": 87465,
+                "male": 104217,
+                "percentage": 48.91,
+                "total": 191682
+            },
+            "r55_64": {
+                "female": 14123,
+                "male": 12942,
+                "percentage": 6.91,
+                "total": 27065
+            },
+            "r65_more": {
+                "female": 10432,
+                "male": 8417,
+                "percentage": 4.81,
+                "total": 18849
+            }
+        }
+    },
+    "Malta": {
+        "expectancyAge": 82.4536585365854,
+        "mediumAge": 42.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 31823,
+                "male": 33934,
+                "percentage": 14.38,
+                "total": 65757
+            },
+            "r15_24": {
+                "female": 22811,
+                "male": 24445,
+                "percentage": 10.33,
+                "total": 47256
+            },
+            "r25_54": {
+                "female": 90264,
+                "male": 97685,
+                "percentage": 41.1,
+                "total": 187949
+            },
+            "r55_64": {
+                "female": 29353,
+                "male": 29533,
+                "percentage": 12.88,
+                "total": 58886
+            },
+            "r65_more": {
+                "female": 52775,
+                "male": 44644,
+                "percentage": 21.3,
+                "total": 97419
+            }
+        }
+    },
+    "Martinique": {
+        "expectancyAge": 79.7219512195122,
+        "mediumAge": null,
+        "rangeAge": "N/A"
+    },
+    "Mexico": {
+        "expectancyAge": 74.947,
+        "mediumAge": 29.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 16349767,
+                "male": 17111199,
+                "percentage": 26.01,
+                "total": 33460966
+            },
+            "r15_24": {
+                "female": 10762784,
+                "male": 11069260,
+                "percentage": 16.97,
+                "total": 21832044
+            },
+            "r25_54": {
+                "female": 27223720,
+                "male": 25604223,
+                "percentage": 41.06,
+                "total": 52827943
+            },
+            "r55_64": {
+                "female": 5784176,
+                "male": 4879048,
+                "percentage": 8.29,
+                "total": 10663224
+            },
+            "r65_more": {
+                "female": 5491581,
+                "male": 4373807,
+                "percentage": 7.67,
+                "total": 9865388
+            }
+        }
+    },
+    "Moldova": {
+        "expectancyAge": 71.717,
+        "mediumAge": 37.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 298673,
+                "male": 317243,
+                "percentage": 18.31,
+                "total": 615916
+            },
+            "r15_24": {
+                "female": 182456,
+                "male": 196874,
+                "percentage": 11.27,
+                "total": 379330
+            },
+            "r25_54": {
+                "female": 712892,
+                "male": 738103,
+                "percentage": 43.13,
+                "total": 1450995
+            },
+            "r55_64": {
+                "female": 240555,
+                "male": 205693,
+                "percentage": 13.26,
+                "total": 446248
+            },
+            "r65_more": {
+                "female": 285058,
+                "male": 186949,
+                "percentage": 14.03,
+                "total": 472007
+            }
+        }
+    },
+    "Monaco": {
+        "expectancyAge": null,
+        "mediumAge": 55.4,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1415,
+                "male": 1497,
+                "percentage": 9.41,
+                "total": 2912
+            },
+            "r15_24": {
+                "female": 1406,
+                "male": 1538,
+                "percentage": 9.52,
+                "total": 2944
+            },
+            "r25_54": {
+                "female": 4644,
+                "male": 4779,
+                "percentage": 30.46,
+                "total": 9423
+            },
+            "r55_64": {
+                "female": 2417,
+                "male": 2370,
+                "percentage": 15.47,
+                "total": 4787
+            },
+            "r65_more": {
+                "female": 6057,
+                "male": 4817,
+                "percentage": 35.15,
+                "total": 10874
+            }
+        }
+    },
+    "Mongolia": {
+        "expectancyAge": 69.509,
+        "mediumAge": null,
+        "rangeAge": {
+            "r0_14": {
+                "female": 418524,
+                "male": 435596,
+                "percentage": 26.96,
+                "total": 854120
+            },
+            "r15_24": {
+                "female": 233459,
+                "male": 239495,
+                "percentage": 14.93,
+                "total": 472954
+            },
+            "r25_54": {
+                "female": 740334,
+                "male": 694481,
+                "percentage": 45.29,
+                "total": 1434815
+            },
+            "r55_64": {
+                "female": 139129,
+                "male": 115560,
+                "percentage": 8.04,
+                "total": 254689
+            },
+            "r65_more": {
+                "female": 90482,
+                "male": 60966,
+                "percentage": 4.78,
+                "total": 151448
+            }
+        }
+    },
+    "Morocco": {
+        "expectancyAge": 76.218,
+        "mediumAge": 29.1,
+        "rangeAge": {
+            "r0_14": {
+                "female": 4709333,
+                "male": 4905626,
+                "percentage": 27.04,
+                "total": 9614959
+            },
+            "r15_24": {
+                "female": 2930708,
+                "male": 2953523,
+                "percentage": 16.55,
+                "total": 5884231
+            },
+            "r25_54": {
+                "female": 7325709,
+                "male": 7126781,
+                "percentage": 40.64,
+                "total": 14452490
+            },
+            "r55_64": {
+                "female": 1548315,
+                "male": 1533771,
+                "percentage": 8.67,
+                "total": 3082086
+            },
+            "r65_more": {
+                "female": 1302581,
+                "male": 1225307,
+                "percentage": 7.11,
+                "total": 2527888
+            }
+        }
+    },
+    "Nepal": {
+        "expectancyAge": 70.169,
+        "mediumAge": 25.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 4073642,
+                "male": 4526786,
+                "percentage": 28.36,
+                "total": 8600428
+            },
+            "r15_24": {
+                "female": 3070843,
+                "male": 3276431,
+                "percentage": 20.93,
+                "total": 6347274
+            },
+            "r25_54": {
+                "female": 6387365,
+                "male": 5251553,
+                "percentage": 38.38,
+                "total": 11638918
+            },
+            "r55_64": {
+                "female": 1059360,
+                "male": 954836,
+                "percentage": 6.64,
+                "total": 2014196
+            },
+            "r65_more": {
+                "female": 874092,
+                "male": 852969,
+                "percentage": 5.69,
+                "total": 1727061
+            }
+        }
+    },
+    "Netherlands": {
+        "expectancyAge": 81.5609756097561,
+        "mediumAge": 42.8,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1358894,
+                "male": 1425547,
+                "percentage": 16.11,
+                "total": 2784441
+            },
+            "r15_24": {
+                "female": 1008763,
+                "male": 1049000,
+                "percentage": 11.91,
+                "total": 2057763
+            },
+            "r25_54": {
+                "female": 3313238,
+                "male": 3334064,
+                "percentage": 38.47,
+                "total": 6647302
+            },
+            "r55_64": {
+                "female": 1188613,
+                "male": 1177657,
+                "percentage": 13.69,
+                "total": 2366270
+            },
+            "r65_more": {
+                "female": 1866380,
+                "male": 1558241,
+                "percentage": 19.82,
+                "total": 3424621
+            }
+        }
+    },
+    "New Zealand": {
+        "expectancyAge": 81.6585365853659,
+        "mediumAge": 37.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 469853,
+                "male": 496802,
+                "percentage": 19.63,
+                "total": 966655
+            },
+            "r15_24": {
+                "female": 308132,
+                "male": 328327,
+                "percentage": 12.92,
+                "total": 636459
+            },
+            "r25_54": {
+                "female": 972566,
+                "male": 996857,
+                "percentage": 39.98,
+                "total": 1969423
+            },
+            "r55_64": {
+                "female": 301692,
+                "male": 285989,
+                "percentage": 11.93,
+                "total": 587681
+            },
+            "r65_more": {
+                "female": 407031,
+                "male": 358228,
+                "percentage": 15.54,
+                "total": 765259
+            }
+        }
+    },
+    "Nigeria": {
+        "expectancyAge": 53.95,
+        "mediumAge": 18.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 43674769,
+                "male": 45571738,
+                "percentage": 41.7,
+                "total": 89246507
+            },
+            "r15_24": {
+                "female": 21358753,
+                "male": 22022660,
+                "percentage": 20.27,
+                "total": 43381413
+            },
+            "r25_54": {
+                "female": 32686474,
+                "male": 32808913,
+                "percentage": 30.6,
+                "total": 65495387
+            },
+            "r55_64": {
+                "female": 4514264,
+                "male": 4327847,
+                "percentage": 4.13,
+                "total": 8842111
+            },
+            "r65_more": {
+                "female": 3733801,
+                "male": 3329083,
+                "percentage": 3.3,
+                "total": 7062884
+            }
+        }
+    },
+    "North Ireland": {
+        "expectancyAge": null,
+        "mediumAge": null,
+        "rangeAge": "N/A"
+    },
+    "North Macedonia": {
+        "expectancyAge": 75.589,
+        "mediumAge": 39.0,
+        "rangeAge": {
+            "r0_14": {
+                "female": 165992,
+                "male": 177553,
+                "percentage": 16.16,
+                "total": 343545
+            },
+            "r15_24": {
+                "female": 129770,
+                "male": 139250,
+                "percentage": 12.65,
+                "total": 269020
+            },
+            "r25_54": {
+                "female": 465145,
+                "male": 480191,
+                "percentage": 44.47,
+                "total": 945336
+            },
+            "r55_64": {
+                "female": 135407,
+                "male": 131380,
+                "percentage": 12.55,
+                "total": 266787
+            },
+            "r65_more": {
+                "female": 169609,
+                "male": 131674,
+                "percentage": 14.17,
+                "total": 301283
+            }
+        }
+    },
+    "Norway": {
+        "expectancyAge": 82.509756097561,
+        "mediumAge": 39.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 478901,
+                "male": 503013,
+                "percentage": 17.96,
+                "total": 981914
+            },
+            "r15_24": {
+                "female": 320720,
+                "male": 336597,
+                "percentage": 12.02,
+                "total": 657317
+            },
+            "r25_54": {
+                "female": 1077357,
+                "male": 1150762,
+                "percentage": 40.75,
+                "total": 2228119
+            },
+            "r55_64": {
+                "female": 318398,
+                "male": 328865,
+                "percentage": 11.84,
+                "total": 647263
+            },
+            "r65_more": {
+                "female": 510594,
+                "male": 442232,
+                "percentage": 17.43,
+                "total": 952826
+            }
+        }
+    },
+    "Oman": {
+        "expectancyAge": 77.393,
+        "mediumAge": 26.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 533949,
+                "male": 561791,
+                "percentage": 30.15,
+                "total": 1095740
+            },
+            "r15_24": {
+                "female": 299516,
+                "male": 331000,
+                "percentage": 17.35,
+                "total": 630516
+            },
+            "r25_54": {
+                "female": 699821,
+                "male": 928812,
+                "percentage": 44.81,
+                "total": 1628633
+            },
+            "r55_64": {
+                "female": 68427,
+                "male": 77558,
+                "percentage": 4.02,
+                "total": 145985
+            },
+            "r65_more": {
+                "female": 69663,
+                "male": 64152,
+                "percentage": 3.68,
+                "total": 133815
+            }
+        }
+    },
+    "Pakistan": {
+        "expectancyAge": 66.947,
+        "mediumAge": 22.0,
+        "rangeAge": {
+            "r0_14": {
+                "female": 41149694,
+                "male": 42923925,
+                "percentage": 36.01,
+                "total": 84073619
+            },
+            "r15_24": {
+                "female": 21952976,
+                "male": 23119205,
+                "percentage": 19.3,
+                "total": 45072181
+            },
+            "r25_54": {
+                "female": 39442046,
+                "male": 41589381,
+                "percentage": 34.7,
+                "total": 81031427
+            },
+            "r55_64": {
+                "female": 6423993,
+                "male": 6526656,
+                "percentage": 5.55,
+                "total": 12950649
+            },
+            "r65_more": {
+                "female": 5570595,
+                "male": 4802165,
+                "percentage": 4.44,
+                "total": 10372760
+            }
+        }
+    },
+    "Palestine": {
+        "expectancyAge": null,
+        "mediumAge": null,
+        "rangeAge": "N/A"
+    },
+    "Peru": {
+        "expectancyAge": 76.286,
+        "mediumAge": 29.1,
+        "rangeAge": {
+            "r0_14": {
+                "female": 3984546,
+                "male": 4131985,
+                "percentage": 25.43,
+                "total": 8116531
+            },
+            "r15_24": {
+                "female": 2736394,
+                "male": 2756024,
+                "percentage": 17.21,
+                "total": 5492418
+            },
+            "r25_54": {
+                "female": 6815159,
+                "male": 6279595,
+                "percentage": 41.03,
+                "total": 13094754
+            },
+            "r55_64": {
+                "female": 1375708,
+                "male": 1266595,
+                "percentage": 8.28,
+                "total": 2642303
+            },
+            "r65_more": {
+                "female": 1361276,
+                "male": 1207707,
+                "percentage": 8.05,
+                "total": 2568983
+            }
+        }
+    },
+    "Philippines": {
+        "expectancyAge": 70.952,
+        "mediumAge": 24.1,
+        "rangeAge": {
+            "r0_14": {
+                "female": 17331781,
+                "male": 18060976,
+                "percentage": 32.42,
+                "total": 35392757
+            },
+            "r15_24": {
+                "female": 10243047,
+                "male": 10680325,
+                "percentage": 19.16,
+                "total": 20923372
+            },
+            "r25_54": {
+                "female": 20027153,
+                "male": 20777741,
+                "percentage": 37.37,
+                "total": 40804894
+            },
+            "r55_64": {
+                "female": 3633301,
+                "male": 3116485,
+                "percentage": 6.18,
+                "total": 6749786
+            },
+            "r65_more": {
+                "female": 3154166,
+                "male": 2155840,
+                "percentage": 4.86,
+                "total": 5310006
+            }
+        }
+    },
+    "Poland": {
+        "expectancyAge": 77.8512195121951,
+        "mediumAge": 41.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 2756968,
+                "male": 2918518,
+                "percentage": 14.83,
+                "total": 5675486
+            },
+            "r15_24": {
+                "female": 1823894,
+                "male": 1928637,
+                "percentage": 9.8,
+                "total": 3752531
+            },
+            "r25_54": {
+                "female": 8203646,
+                "male": 8384017,
+                "percentage": 43.33,
+                "total": 16587663
+            },
+            "r55_64": {
+                "female": 2675351,
+                "male": 2424638,
+                "percentage": 13.32,
+                "total": 5099989
+            },
+            "r65_more": {
+                "female": 4299341,
+                "male": 2867315,
+                "percentage": 18.72,
+                "total": 7166656
+            }
+        }
+    },
+    "Portugal": {
+        "expectancyAge": 81.1243902439025,
+        "mediumAge": 44.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 682582,
+                "male": 716102,
+                "percentage": 13.58,
+                "total": 1398684
+            },
+            "r15_24": {
+                "female": 547122,
+                "male": 580074,
+                "percentage": 10.94,
+                "total": 1127196
+            },
+            "r25_54": {
+                "female": 2164745,
+                "male": 2109693,
+                "percentage": 41.49,
+                "total": 4274438
+            },
+            "r55_64": {
+                "female": 731334,
+                "male": 615925,
+                "percentage": 13.08,
+                "total": 1347259
+            },
+            "r65_more": {
+                "female": 1294899,
+                "male": 860198,
+                "percentage": 20.92,
+                "total": 2155097
+            }
+        }
+    },
+    "Qatar": {
+        "expectancyAge": 79.981,
+        "mediumAge": 33.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 155211,
+                "male": 158702,
+                "percentage": 12.84,
+                "total": 313913
+            },
+            "r15_24": {
+                "female": 84323,
+                "male": 203703,
+                "percentage": 11.78,
+                "total": 288026
+            },
+            "r25_54": {
+                "female": 287575,
+                "male": 1439364,
+                "percentage": 70.66,
+                "total": 1726939
+            },
+            "r55_64": {
+                "female": 19600,
+                "male": 66561,
+                "percentage": 3.53,
+                "total": 86161
+            },
+            "r65_more": {
+                "female": 10068,
+                "male": 19067,
+                "percentage": 1.19,
+                "total": 29135
+            }
+        }
+    },
+    "Romania": {
+        "expectancyAge": 75.309756097561,
+        "mediumAge": 42.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1463700,
+                "male": 1545196,
+                "percentage": 14.12,
+                "total": 3008896
+            },
+            "r15_24": {
+                "female": 1068817,
+                "male": 1126997,
+                "percentage": 10.31,
+                "total": 2195814
+            },
+            "r25_54": {
+                "female": 4860408,
+                "male": 4993886,
+                "percentage": 46.26,
+                "total": 9854294
+            },
+            "r55_64": {
+                "female": 1322048,
+                "male": 1176814,
+                "percentage": 11.73,
+                "total": 2498862
+            },
+            "r65_more": {
+                "female": 2228555,
+                "male": 1516472,
+                "percentage": 17.58,
+                "total": 3745027
+            }
+        }
+    },
+    "Russia": {
+        "expectancyAge": 72.1190243902439,
+        "mediumAge": 40.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 11881297,
+                "male": 12551611,
+                "percentage": 17.24,
+                "total": 24432908
+            },
+            "r15_24": {
+                "female": 6602776,
+                "male": 6920070,
+                "percentage": 9.54,
+                "total": 13522846
+            },
+            "r25_54": {
+                "female": 31245104,
+                "male": 30240260,
+                "percentage": 43.38,
+                "total": 61485364
+            },
+            "r55_64": {
+                "female": 11467697,
+                "male": 8808330,
+                "percentage": 14.31,
+                "total": 20276027
+            },
+            "r65_more": {
+                "female": 14971679,
+                "male": 7033381,
+                "percentage": 15.53,
+                "total": 22005060
+            }
+        }
+    },
+    "Saint Barthelemy": {
+        "expectancyAge": null,
+        "mediumAge": 45.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 525,
+                "male": 555,
+                "percentage": 15.16,
+                "total": 1080
+            },
+            "r15_24": {
+                "female": 248,
+                "male": 275,
+                "percentage": 7.34,
+                "total": 523
+            },
+            "r25_54": {
+                "female": 1363,
+                "male": 1618,
+                "percentage": 41.86,
+                "total": 2981
+            },
+            "r55_64": {
+                "female": 530,
+                "male": 630,
+                "percentage": 16.29,
+                "total": 1160
+            },
+            "r65_more": {
+                "female": 688,
+                "male": 690,
+                "percentage": 19.35,
+                "total": 1378
+            }
+        }
+    },
+    "Saint Martin": {
+        "expectancyAge": null,
+        "mediumAge": null,
+        "rangeAge": {
+            "r0_14": {
+                "female": 4197,
+                "male": 4148,
+                "percentage": 25.63,
+                "total": 8345
+            },
+            "r15_24": {
+                "female": 1701,
+                "male": 1647,
+                "percentage": 10.28,
+                "total": 3348
+            },
+            "r25_54": {
+                "female": 7841,
+                "male": 7201,
+                "percentage": 46.2,
+                "total": 15042
+            },
+            "r55_64": {
+                "female": 1508,
+                "male": 1328,
+                "percentage": 8.71,
+                "total": 2836
+            },
+            "r65_more": {
+                "female": 1680,
+                "male": 1305,
+                "percentage": 9.17,
+                "total": 2985
+            }
+        }
+    },
+    "San Marino": {
+        "expectancyAge": null,
+        "mediumAge": 45.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 2379,
+                "male": 2662,
+                "percentage": 14.73,
+                "total": 5041
+            },
+            "r15_24": {
+                "female": 1894,
+                "male": 2091,
+                "percentage": 11.64,
+                "total": 3985
+            },
+            "r25_54": {
+                "female": 7081,
+                "male": 6310,
+                "percentage": 39.12,
+                "total": 13391
+            },
+            "r55_64": {
+                "female": 2520,
+                "male": 2367,
+                "percentage": 14.28,
+                "total": 4887
+            },
+            "r65_more": {
+                "female": 3805,
+                "male": 3123,
+                "percentage": 20.24,
+                "total": 6928
+            }
+        }
+    },
+    "Saudi Arabia": {
+        "expectancyAge": 74.874,
+        "mediumAge": 30.8,
+        "rangeAge": {
+            "r0_14": {
+                "female": 4159242,
+                "male": 4327830,
+                "percentage": 24.84,
+                "total": 8487072
+            },
+            "r15_24": {
+                "female": 2515188,
+                "male": 2741371,
+                "percentage": 15.38,
+                "total": 5256559
+            },
+            "r25_54": {
+                "female": 6804479,
+                "male": 10350028,
+                "percentage": 50.2,
+                "total": 17154507
+            },
+            "r55_64": {
+                "female": 778467,
+                "male": 1254921,
+                "percentage": 5.95,
+                "total": 2033388
+            },
+            "r65_more": {
+                "female": 584577,
+                "male": 657395,
+                "percentage": 3.63,
+                "total": 1241972
+            }
+        }
+    },
+    "Senegal": {
+        "expectancyAge": 67.38,
+        "mediumAge": 19.4,
+        "rangeAge": {
+            "r0_14": {
+                "female": 3160111,
+                "male": 3194454,
+                "percentage": 40.38,
+                "total": 6354565
+            },
+            "r15_24": {
+                "female": 1606084,
+                "male": 1596896,
+                "percentage": 20.35,
+                "total": 3202980
+            },
+            "r25_54": {
+                "female": 2700698,
+                "male": 2327424,
+                "percentage": 31.95,
+                "total": 5028122
+            },
+            "r55_64": {
+                "female": 378932,
+                "male": 283480,
+                "percentage": 4.21,
+                "total": 662412
+            },
+            "r65_more": {
+                "female": 275957,
+                "male": 212332,
+                "percentage": 3.1,
+                "total": 488289
+            }
+        }
+    },
+    "Serbia": {
+        "expectancyAge": 76.0878048780488,
+        "mediumAge": 43.4,
+        "rangeAge": {
+            "r0_14": {
+                "female": 478247,
+                "male": 508242,
+                "percentage": 14.07,
+                "total": 986489
+            },
+            "r15_24": {
+                "female": 374718,
+                "male": 399435,
+                "percentage": 11.04,
+                "total": 774153
+            },
+            "r25_54": {
+                "female": 1429176,
+                "male": 1459413,
+                "percentage": 41.19,
+                "total": 2888589
+            },
+            "r55_64": {
+                "female": 495663,
+                "male": 464881,
+                "percentage": 13.7,
+                "total": 960544
+            },
+            "r65_more": {
+                "female": 816685,
+                "male": 585705,
+                "percentage": 20.0,
+                "total": 1402390
+            }
+        }
+    },
+    "Singapore": {
+        "expectancyAge": 82.8951219512195,
+        "mediumAge": 35.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 387665,
+                "male": 406983,
+                "percentage": 12.8,
+                "total": 794648
+            },
+            "r15_24": {
+                "female": 474676,
+                "male": 457190,
+                "percentage": 15.01,
+                "total": 931866
+            },
+            "r25_54": {
+                "female": 1618844,
+                "male": 1531088,
+                "percentage": 50.73,
+                "total": 3149932
+            },
+            "r55_64": {
+                "female": 328808,
+                "male": 328024,
+                "percentage": 10.58,
+                "total": 656832
+            },
+            "r65_more": {
+                "female": 366259,
+                "male": 310123,
+                "percentage": 10.89,
+                "total": 676382
+            }
+        }
+    },
+    "Slovakia": {
+        "expectancyAge": 77.1658536585366,
+        "mediumAge": 41.8,
+        "rangeAge": {
+            "r0_14": {
+                "female": 400128,
+                "male": 423180,
+                "percentage": 15.13,
+                "total": 823308
+            },
+            "r15_24": {
+                "female": 266838,
+                "male": 280284,
+                "percentage": 10.06,
+                "total": 547122
+            },
+            "r25_54": {
+                "female": 1198747,
+                "male": 1228462,
+                "percentage": 44.61,
+                "total": 2427209
+            },
+            "r55_64": {
+                "female": 373452,
+                "male": 342124,
+                "percentage": 13.15,
+                "total": 715576
+            },
+            "r65_more": {
+                "female": 561120,
+                "male": 366267,
+                "percentage": 17.05,
+                "total": 927387
+            }
+        }
+    },
+    "Slovenia": {
+        "expectancyAge": 81.1756097560976,
+        "mediumAge": 44.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 151960,
+                "male": 160134,
+                "percentage": 14.84,
+                "total": 312094
+            },
+            "r15_24": {
+                "female": 91318,
+                "male": 98205,
+                "percentage": 9.01,
+                "total": 189523
+            },
+            "r25_54": {
+                "female": 406395,
+                "male": 449930,
+                "percentage": 40.73,
+                "total": 856325
+            },
+            "r55_64": {
+                "female": 149635,
+                "male": 148785,
+                "percentage": 14.19,
+                "total": 298420
+            },
+            "r65_more": {
+                "female": 253896,
+                "male": 192420,
+                "percentage": 21.23,
+                "total": 446316
+            }
+        }
+    },
+    "South Africa": {
+        "expectancyAge": 63.538,
+        "mediumAge": 28.0,
+        "rangeAge": {
+            "r0_14": {
+                "female": 7883266,
+                "male": 7894742,
+                "percentage": 27.94,
+                "total": 15778008
+            },
+            "r15_24": {
+                "female": 4804337,
+                "male": 4680587,
+                "percentage": 16.8,
+                "total": 9484924
+            },
+            "r25_54": {
+                "female": 11825193,
+                "male": 12099441,
+                "percentage": 42.37,
+                "total": 23924634
+            },
+            "r55_64": {
+                "female": 2056988,
+                "male": 1782902,
+                "percentage": 6.8,
+                "total": 3839890
+            },
+            "r65_more": {
+                "female": 1992205,
+                "male": 1443956,
+                "percentage": 6.09,
+                "total": 3436161
+            }
+        }
+    },
+    "South Korea": {
+        "expectancyAge": 82.6268292682927,
+        "mediumAge": 43.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 3219589,
+                "male": 3401815,
+                "percentage": 12.77,
+                "total": 6621404
+            },
+            "r15_24": {
+                "female": 2764860,
+                "male": 3030027,
+                "percentage": 11.18,
+                "total": 5794887
+            },
+            "r25_54": {
+                "female": 11106927,
+                "male": 12043626,
+                "percentage": 44.66,
+                "total": 23150553
+            },
+            "r55_64": {
+                "female": 4089033,
+                "male": 3927496,
+                "percentage": 15.47,
+                "total": 8016529
+            },
+            "r65_more": {
+                "female": 4678882,
+                "male": 3572855,
+                "percentage": 15.92,
+                "total": 8251737
+            }
+        }
+    },
+    "Spain": {
+        "expectancyAge": 83.3292682926829,
+        "mediumAge": 43.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 3650085,
+                "male": 3861522,
+                "percentage": 15.02,
+                "total": 7511607
+            },
+            "r15_24": {
+                "female": 2392498,
+                "male": 2557504,
+                "percentage": 9.9,
+                "total": 4950002
+            },
+            "r25_54": {
+                "female": 10675873,
+                "male": 11134006,
+                "percentage": 43.61,
+                "total": 21809879
+            },
+            "r55_64": {
+                "female": 3319823,
+                "male": 3177080,
+                "percentage": 12.99,
+                "total": 6496903
+            },
+            "r65_more": {
+                "female": 5276984,
+                "male": 3970417,
+                "percentage": 18.49,
+                "total": 9247401
+            }
+        }
+    },
+    "Sri Lanka": {
+        "expectancyAge": 76.648,
+        "mediumAge": 33.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 2592450,
+                "male": 2696379,
+                "percentage": 23.11,
+                "total": 5288829
+            },
+            "r15_24": {
+                "female": 1636401,
+                "male": 1700442,
+                "percentage": 14.58,
+                "total": 3336843
+            },
+            "r25_54": {
+                "female": 4789101,
+                "male": 4641842,
+                "percentage": 41.2,
+                "total": 9430943
+            },
+            "r55_64": {
+                "female": 1288056,
+                "male": 1110481,
+                "percentage": 10.48,
+                "total": 2398537
+            },
+            "r65_more": {
+                "female": 1410734,
+                "male": 1023315,
+                "percentage": 10.63,
+                "total": 2434049
+            }
+        }
+    },
+    "St. Martin": {
+        "expectancyAge": null,
+        "mediumAge": 33.3,
+        "rangeAge": "N/A"
+    },
+    "Sweden": {
+        "expectancyAge": 82.3073170731707,
+        "mediumAge": 41.1,
+        "rangeAge": {
+            "r0_14": {
+                "female": 878028,
+                "male": 928413,
+                "percentage": 17.71,
+                "total": 1806441
+            },
+            "r15_24": {
+                "female": 532492,
+                "male": 569082,
+                "percentage": 10.8,
+                "total": 1101574
+            },
+            "r25_54": {
+                "female": 1962617,
+                "male": 2016991,
+                "percentage": 39.01,
+                "total": 3979608
+            },
+            "r55_64": {
+                "female": 603795,
+                "male": 610521,
+                "percentage": 11.9,
+                "total": 1214316
+            },
+            "r65_more": {
+                "female": 1126142,
+                "male": 974410,
+                "percentage": 20.59,
+                "total": 2100552
+            }
+        }
+    },
+    "Switzerland": {
+        "expectancyAge": 83.6024390243903,
+        "mediumAge": 42.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 625252,
+                "male": 664255,
+                "percentage": 15.34,
+                "total": 1289507
+            },
+            "r15_24": {
+                "female": 426708,
+                "male": 446196,
+                "percentage": 10.39,
+                "total": 872904
+            },
+            "r25_54": {
+                "female": 1765941,
+                "male": 1768245,
+                "percentage": 42.05,
+                "total": 3534186
+            },
+            "r55_64": {
+                "female": 563482,
+                "male": 569717,
+                "percentage": 13.48,
+                "total": 1133199
+            },
+            "r65_more": {
+                "female": 874448,
+                "male": 699750,
+                "percentage": 18.73,
+                "total": 1574198
+            }
+        }
+    },
+    "Taiwan": {
+        "expectancyAge": null,
+        "mediumAge": 42.3,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1426494,
+                "male": 1504704,
+                "percentage": 12.42,
+                "total": 2931198
+            },
+            "r15_24": {
+                "female": 1339535,
+                "male": 1403117,
+                "percentage": 11.62,
+                "total": 2742652
+            },
+            "r25_54": {
+                "female": 5389112,
+                "male": 5351951,
+                "percentage": 45.51,
+                "total": 10741063
+            },
+            "r55_64": {
+                "female": 1778529,
+                "male": 1698555,
+                "percentage": 14.73,
+                "total": 3477084
+            },
+            "r65_more": {
+                "female": 2029576,
+                "male": 1681476,
+                "percentage": 15.72,
+                "total": 3711052
+            }
+        }
+    },
+    "Thailand": {
+        "expectancyAge": 76.683,
+        "mediumAge": 39.0,
+        "rangeAge": {
+            "r0_14": {
+                "female": 5533772,
+                "male": 5812803,
+                "percentage": 16.45,
+                "total": 11346575
+            },
+            "r15_24": {
+                "female": 4400997,
+                "male": 4581622,
+                "percentage": 13.02,
+                "total": 8982619
+            },
+            "r25_54": {
+                "female": 15875353,
+                "male": 15643583,
+                "percentage": 45.69,
+                "total": 31518936
+            },
+            "r55_64": {
+                "female": 4774801,
+                "male": 4200077,
+                "percentage": 13.01,
+                "total": 8974878
+            },
+            "r65_more": {
+                "female": 4601119,
+                "male": 3553273,
+                "percentage": 11.82,
+                "total": 8154392
+            }
+        }
+    },
+    "Togo": {
+        "expectancyAge": 60.489,
+        "mediumAge": 20.0,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1703230,
+                "male": 1716667,
+                "percentage": 39.73,
+                "total": 3419897
+            },
+            "r15_24": {
+                "female": 820971,
+                "male": 817093,
+                "percentage": 19.03,
+                "total": 1638064
+            },
+            "r25_54": {
+                "female": 1439380,
+                "male": 1423554,
+                "percentage": 33.26,
+                "total": 2862934
+            },
+            "r55_64": {
+                "female": 200392,
+                "male": 179779,
+                "percentage": 4.42,
+                "total": 380171
+            },
+            "r65_more": {
+                "female": 175074,
+                "male": 132304,
+                "percentage": 3.57,
+                "total": 307378
+            }
+        }
+    },
+    "Tunisia": {
+        "expectancyAge": 76.31,
+        "mediumAge": 32.7,
+        "rangeAge": {
+            "r0_14": {
+                "female": 1433357,
+                "male": 1529834,
+                "percentage": 25.28,
+                "total": 2963191
+            },
+            "r15_24": {
+                "female": 745888,
+                "male": 766331,
+                "percentage": 12.9,
+                "total": 1512219
+            },
+            "r25_54": {
+                "female": 2576335,
+                "male": 2445751,
+                "percentage": 42.85,
+                "total": 5022086
+            },
+            "r55_64": {
+                "female": 598140,
+                "male": 587481,
+                "percentage": 10.12,
+                "total": 1185621
+            },
+            "r65_more": {
+                "female": 546458,
+                "male": 491602,
+                "percentage": 8.86,
+                "total": 1038060
+            }
+        }
+    },
+    "UK": {
+        "expectancyAge": 81.1560975609756,
+        "mediumAge": 40.6,
+        "rangeAge": {
+            "r0_14": {
+                "female": 5651780,
+                "male": 5943435,
+                "percentage": 17.63,
+                "total": 11595215
+            },
+            "r15_24": {
+                "female": 3692398,
+                "male": 3860435,
+                "percentage": 11.49,
+                "total": 7552833
+            },
+            "r25_54": {
+                "female": 12747598,
+                "male": 13339965,
+                "percentage": 39.67,
+                "total": 26087563
+            },
+            "r55_64": {
+                "female": 4234701,
+                "male": 4139378,
+                "percentage": 12.73,
+                "total": 8374079
+            },
+            "r65_more": {
+                "female": 6681311,
+                "male": 5470116,
+                "percentage": 18.48,
+                "total": 12151427
+            }
+        }
+    },
+    "US": {
+        "expectancyAge": 78.5390243902439,
+        "mediumAge": 38.5,
+        "rangeAge": {
+            "r0_14": {
+                "female": 30034371,
+                "male": 31374555,
+                "percentage": 18.46,
+                "total": 61408926
+            },
+            "r15_24": {
+                "female": 21006463,
+                "male": 21931368,
+                "percentage": 12.91,
+                "total": 42937831
+            },
+            "r25_54": {
+                "female": 64564565,
+                "male": 64893670,
+                "percentage": 38.92,
+                "total": 129458235
+            },
+            "r55_64": {
+                "female": 22091808,
+                "male": 20690736,
+                "percentage": 12.86,
+                "total": 42782544
+            },
+            "r65_more": {
+                "female": 31037419,
+                "male": 25014147,
+                "percentage": 16.85,
+                "total": 56051566
+            }
+        }
+    },
+    "Ukraine": {
+        "expectancyAge": 71.7809756097561,
+        "mediumAge": 41.2,
+        "rangeAge": {
+            "r0_14": {
+                "female": 3438887,
+                "male": 3658127,
+                "percentage": 16.16,
+                "total": 7097014
+            },
+            "r15_24": {
+                "female": 1987758,
+                "male": 2087185,
+                "percentage": 9.28,
+                "total": 4074943
+            },
+            "r25_54": {
+                "female": 9718758,
+                "male": 9456905,
+                "percentage": 43.66,
+                "total": 19175663
+            },
+            "r55_64": {
+                "female": 3463851,
+                "male": 2630329,
+                "percentage": 13.87,
+                "total": 6094180
+            },
+            "r65_more": {
+                "female": 4957539,
+                "male": 2523600,
+                "percentage": 17.03,
+                "total": 7481139
+            }
+        }
+    },
+    "United Arab Emirates": {
+        "expectancyAge": 77.647,
+        "mediumAge": 38.4,
+        "rangeAge": {
+            "r0_14": {
+                "female": 698330,
+                "male": 745492,
+                "percentage": 14.45,
+                "total": 1443822
+            },
+            "r15_24": {
+                "female": 361804,
+                "male": 431751,
+                "percentage": 7.94,
+                "total": 793555
+            },
+            "r25_54": {
+                "female": 1592987,
+                "male": 5204618,
+                "percentage": 68.03,
+                "total": 6797605
+            },
+            "r55_64": {
+                "female": 108850,
+                "male": 658892,
+                "percentage": 7.68,
+                "total": 767742
+            },
+            "r65_more": {
+                "female": 43138,
+                "male": 146221,
+                "percentage": 1.9,
+                "total": 189359
+            }
+        }
+    },
+    "Vatican City": {
+        "expectancyAge": null,
+        "mediumAge": null,
+        "rangeAge": "N/A"
+    },
+    "Vietnam": {
+        "expectancyAge": 75.241,
+        "mediumAge": 31.9,
+        "rangeAge": {
+            "r0_14": {
+                "female": 10590078,
+                "male": 11733704,
+                "percentage": 22.61,
+                "total": 22323782
+            },
+            "r15_24": {
+                "female": 7202716,
+                "male": 7825859,
+                "percentage": 15.22,
+                "total": 15028575
+            },
+            "r25_54": {
+                "female": 22262566,
+                "male": 22852429,
+                "percentage": 45.7,
+                "total": 45114995
+            },
+            "r55_64": {
+                "female": 5016880,
+                "male": 4412111,
+                "percentage": 9.55,
+                "total": 9428991
+            },
+            "r65_more": {
+                "female": 4121969,
+                "male": 2702963,
+                "percentage": 6.91,
+                "total": 6824932
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+curl --insecure -F "coronafile=@/Users/idelfuschini/IGT_PROJECT/coronavirus/data/commons/nationsData.json" https://www.idelfuschini.it/coronaup/coronup.php

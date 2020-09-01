@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "All",
+        "path": "All"
+    },
+    {
+        "Name": "Abruzzo",
+        "path": "Abruzzo"
+    },
+    {
+        "Name": "Basilicata",
+        "path": "Basilicata"
+    },
+    {
+        "Name": "Bolzano",
+        "path": "Bolzano"
+    },
+    {
+        "Name": "Calabria",
+        "path": "Calabria"
+    },
+    {
+        "Name": "Campania",
+        "path": "Campania"
+    },
+    {
+        "Name": "Emilia Romagna",
+        "path": "Emilia_Romagna"
+    },
+    {
+        "Name": "Friuli V. G. ",
+        "path": "Friuli_V._G._"
+    },
+    {
+        "Name": "Lazio",
+        "path": "Lazio"
+    },
+    {
+        "Name": "Liguria",
+        "path": "Liguria"
+    },
+    {
+        "Name": "Lombardia",
+        "path": "Lombardia"
+    },
+    {
+        "Name": "Marche",
+        "path": "Marche"
+    },
+    {
+        "Name": "Molise",
+        "path": "Molise"
+    },
+    {
+        "Name": "Piemonte",
+        "path": "Piemonte"
+    },
+    {
+        "Name": "Puglia",
+        "path": "Puglia"
+    },
+    {
+        "Name": "Sardegna",
+        "path": "Sardegna"
+    },
+    {
+        "Name": "Sicilia",
+        "path": "Sicilia"
+    },
+    {
+        "Name": "Toscana",
+        "path": "Toscana"
+    },
+    {
+        "Name": "Trento",
+        "path": "Trento"
+    },
+    {
+        "Name": "Umbria",
+        "path": "Umbria"
+    },
+    {
+        "Name": "Valle d'Aosta",
+        "path": "Valle_d'Aosta"
+    },
+    {
+        "Name": "Veneto",
+        "path": "Veneto"
+    }
+]

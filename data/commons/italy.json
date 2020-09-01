@@ -1,0 +1,86 @@
+[
+    {
+        "Name": "Lombardia",
+        "path": "Lombardia"
+    },
+    {
+        "Name": "Emilia Romagna",
+        "path": "Emilia_Romagna"
+    },
+    {
+        "Name": "Veneto",
+        "path": "Veneto"
+    },
+    {
+        "Name": "Piemonte",
+        "path": "Piemonte"
+    },
+    {
+        "Name": "Marche",
+        "path": "Marche"
+    },
+    {
+        "Name": "Toscana",
+        "path": "Toscana"
+    },
+    {
+        "Name": "Liguria",
+        "path": "Liguria"
+    },
+    {
+        "Name": "Lazio",
+        "path": "Lazio"
+    },
+    {
+        "Name": "Friuli Venezia Giulia ",
+        "path": "Friuli_Venezia_Giulia_"
+    },
+    {
+        "Name": "Campania",
+        "path": "Campania"
+    },
+    {
+        "Name": "P.A. Trento",
+        "path": "P.A._Trento"
+    },
+    {
+        "Name": "Sicilia",
+        "path": "Sicilia"
+    },
+    {
+        "Name": "Puglia",
+        "path": "Puglia"
+    },
+    {
+        "Name": "P.A. Bolzano",
+        "path": "P.A._Bolzano"
+    },
+    {
+        "Name": "Abruzzo",
+        "path": "Abruzzo"
+    },
+    {
+        "Name": "Umbria",
+        "path": "Umbria"
+    },
+    {
+        "Name": "Sardegna",
+        "path": "Sardegna"
+    },
+    {
+        "Name": "Calabria",
+        "path": "Calabria"
+    },
+    {
+        "Name": "Valle d'Aosta",
+        "path": "Valle_d'Aosta"
+    },
+    {
+        "Name": "Molise",
+        "path": "Molise"
+    },
+    {
+        "Name": "Basilicata",
+        "path": "Basilicata"
+    }
+]

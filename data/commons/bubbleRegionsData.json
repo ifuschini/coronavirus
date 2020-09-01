@@ -1,0 +1,86 @@
+{
+    "Abruzzo": {
+        "latitude": 42.35122196,
+        "longitude": 13.39843823
+    },
+    "Basilicata": {
+        "latitude": 40.63947052,
+        "longitude": 15.80514834
+    },
+    "Bolzano": {
+        "latitude": 46.49933453,
+        "longitude": 11.35662422
+    },
+    "Calabria": {
+        "latitude": 38.10922769,
+        "longitude": 15.6434527
+    },
+    "Campania": {
+        "latitude": 40.83956555,
+        "longitude": 14.25084984
+    },
+    "Emilia Romagna": {
+        "latitude": 44.49436681,
+        "longitude": 11.3417208
+    },
+    "Friuli V. G. ": {
+        "latitude": 45.6494354,
+        "longitude": 13.76813649
+    },
+    "Lazio": {
+        "latitude": 41.89277044,
+        "longitude": 12.48366722
+    },
+    "Liguria": {
+        "latitude": 44.41149315,
+        "longitude": 8.9326992
+    },
+    "Lombardia": {
+        "latitude": 45.46679409,
+        "longitude": 9.190347404
+    },
+    "Marche": {
+        "latitude": 43.61675973,
+        "longitude": 13.5188753
+    },
+    "Molise": {
+        "latitude": 41.55774754,
+        "longitude": 14.65916051
+    },
+    "Piemonte": {
+        "latitude": 45.0732745,
+        "longitude": 7.680687483
+    },
+    "Puglia": {
+        "latitude": 41.12559576,
+        "longitude": 16.86736689
+    },
+    "Sardegna": {
+        "latitude": 39.21531192,
+        "longitude": 9.110616306
+    },
+    "Sicilia": {
+        "latitude": 38.11569725,
+        "longitude": 13.3623567
+    },
+    "Toscana": {
+        "latitude": 43.76923077,
+        "longitude": 11.25588885
+    },
+    "Trento": {
+        "latitude": 46.06893511,
+        "longitude": 11.12123097
+    },
+    "Umbria": {
+        "latitude": 43.10675841,
+        "longitude": 12.38824698
+    },
+    "Valle d'Aosta": {
+        "latitude": 45.73750286,
+        "longitude": 7.320149366
+    },
+    "Veneto": {
+        "latitude": 45.43490485,
+        "longitude": 12.33845213
+    }
+}
