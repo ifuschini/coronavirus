@@ -4,7 +4,7 @@
         "path": "Lombardia"
     },
     {
-        "Name": "Emilia Romagna",
+        "Name": "Emilia-Romagna",
         "path": "Emilia_Romagna"
     },
     {
@@ -32,8 +32,8 @@
         "path": "Lazio"
     },
     {
-        "Name": "Friuli Venezia Giulia ",
-        "path": "Friuli_Venezia_Giulia_"
+        "Name": "Friuli Venezia Giulia",
+        "path": "Friuli_Venezia_Giulia"
     },
     {
         "Name": "Campania",

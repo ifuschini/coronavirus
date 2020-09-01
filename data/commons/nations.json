@@ -1,37 +1,5 @@
 [
     {
-        "Name": "US",
-        "path": "US"
-    },
-    {
-        "Name": "Canada",
-        "path": "Canada"
-    },
-    {
-        "Name": "United Kingdom",
-        "path": "United_Kingdom"
-    },
-    {
-        "Name": "China",
-        "path": "China"
-    },
-    {
-        "Name": "Netherlands",
-        "path": "Netherlands"
-    },
-    {
-        "Name": "Australia",
-        "path": "Australia"
-    },
-    {
-        "Name": "Denmark",
-        "path": "Denmark"
-    },
-    {
-        "Name": "France",
-        "path": "France"
-    },
-    {
         "Name": "Afghanistan",
         "path": "Afghanistan"
     },
@@ -62,6 +30,10 @@
     {
         "Name": "Armenia",
         "path": "Armenia"
+    },
+    {
+        "Name": "Australia",
+        "path": "Australia"
     },
     {
         "Name": "Austria",
@@ -156,6 +128,10 @@
         "path": "Cameroon"
     },
     {
+        "Name": "Canada",
+        "path": "Canada"
+    },
+    {
         "Name": "Central African Republic",
         "path": "Central_African_Republic"
     },
@@ -168,8 +144,16 @@
         "path": "Chile"
     },
     {
+        "Name": "China",
+        "path": "China"
+    },
+    {
         "Name": "Colombia",
         "path": "Colombia"
+    },
+    {
+        "Name": "Comoros",
+        "path": "Comoros"
     },
     {
         "Name": "Congo (Brazzaville)",
@@ -202,6 +186,10 @@
     {
         "Name": "Czechia",
         "path": "Czechia"
+    },
+    {
+        "Name": "Denmark",
+        "path": "Denmark"
     },
     {
         "Name": "Diamond Princess",
@@ -258,6 +246,10 @@
     {
         "Name": "Finland",
         "path": "Finland"
+    },
+    {
+        "Name": "France",
+        "path": "France"
     },
     {
         "Name": "Gabon",
@@ -400,6 +392,10 @@
         "path": "Lebanon"
     },
     {
+        "Name": "Lesotho",
+        "path": "Lesotho"
+    },
+    {
         "Name": "Liberia",
         "path": "Liberia"
     },
@@ -490,6 +486,10 @@
     {
         "Name": "Nepal",
         "path": "Nepal"
+    },
+    {
+        "Name": "Netherlands",
+        "path": "Netherlands"
     },
     {
         "Name": "New Zealand",
@@ -584,6 +584,10 @@
         "path": "San_Marino"
     },
     {
+        "Name": "Sao Tome and Principe",
+        "path": "Sao_Tome_and_Principe"
+    },
+    {
         "Name": "Saudi Arabia",
         "path": "Saudi_Arabia"
     },
@@ -624,6 +628,10 @@
         "path": "South_Africa"
     },
     {
+        "Name": "South Sudan",
+        "path": "South_Sudan"
+    },
+    {
         "Name": "Spain",
         "path": "Spain"
     },
@@ -656,6 +664,10 @@
         "path": "Taiwan*"
     },
     {
+        "Name": "Tajikistan",
+        "path": "Tajikistan"
+    },
+    {
         "Name": "Tanzania",
         "path": "Tanzania"
     },
@@ -684,6 +696,10 @@
         "path": "Turkey"
     },
     {
+        "Name": "US",
+        "path": "US"
+    },
+    {
         "Name": "Uganda",
         "path": "Uganda"
     },
@@ -694,6 +710,10 @@
     {
         "Name": "United Arab Emirates",
         "path": "United_Arab_Emirates"
+    },
+    {
+        "Name": "United Kingdom",
+        "path": "United_Kingdom"
     },
     {
         "Name": "Uruguay",
@@ -714,6 +734,14 @@
     {
         "Name": "West Bank and Gaza",
         "path": "West_Bank_and_Gaza"
+    },
+    {
+        "Name": "Western Sahara",
+        "path": "Western_Sahara"
+    },
+    {
+        "Name": "Yemen",
+        "path": "Yemen"
     },
     {
         "Name": "Zambia",
