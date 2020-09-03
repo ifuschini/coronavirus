@@ -31,7 +31,7 @@
           class="app-navbar__text"
           :style="{color: this.$themes.gray}"
         >
-          Coronavirus COVID-19
+          Coronavirus Covid-19 | <a href="https://github.com/ifuschini/coronavirus" target="_new" :style="{color: this.$themes.gray}">Github</a>
         </span>
       </div>
       <!--app-navbar-actions

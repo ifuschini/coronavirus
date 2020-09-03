@@ -6,7 +6,7 @@
             update
           </va-button-->
     </div>
-    <div class = "row">
+    <div class="row">
       <div class="flex md3 xs12">
         <va-select
           label="Select region"
@@ -55,6 +55,9 @@
           <va-tab>
             Growth Rate
           </va-tab>
+          <va-tab>
+            Swaps per Day
+          </va-tab>
         </va-tabs>
       </div>
 
@@ -83,6 +86,14 @@
             :title="searchableSelectModel"
           >
             <va-chart :data="objectDataRate" type="line"/>
+          </va-card>
+        </div>
+        <div class="flex md12 xs12" v-if="tabValue==3">
+          <va-card
+            class="chart-widget"
+            :title="searchableSelectModel"
+          >
+            <va-chart :data="objectSwapsPerDay" type="line"/>
           </va-card>
         </div>
       </div>
@@ -255,6 +266,10 @@ export default {
         labels: [],
         datasets: [],
       },
+      objectSwapsPerDay: {
+        labels: [],
+        datasets: [],
+      },
       showMediumModal: false,
       showGraph: true,
       message: '',
@@ -359,6 +374,7 @@ export default {
       const arrayDeaths = []
       const arrayRecovered = []
       const arrayRate = []
+      const arraySwabsPerDay = []
       const arrayDateShow = []
       this.arrayTable = []
       this.confirmed = regionData[lastDate].Confirmed
@@ -384,6 +400,7 @@ export default {
         for (let i = 0; i < 10 - dayPerDay.length; i++) dayPerDayOrder = dayPerDayOrder + '0'
         let sign = ''
         arrayRate.push(dayPerDayPercent)
+        arraySwabsPerDay.push(swabsdayperday)
         if (dayPerDayPercent > 0) sign = '+'
         this.arrayTable.push({
           DateOrder: arrayDate[i],
@@ -460,6 +477,17 @@ export default {
             backgroundColor: hex2rgb(this.$themes.primary, 0.3).css,
             borderColor: 'transparent',
             data: arrayRate,
+          },
+        ],
+      }
+      this.objectSwapsPerDay = {
+        labels: arrayDateShow,
+        datasets: [
+          {
+            label: 'Swaps per Day',
+            backgroundColor: hex2rgb(this.$themes.primary, 0.3).css,
+            borderColor: 'transparent',
+            data: arraySwabsPerDay,
           },
         ],
       }
