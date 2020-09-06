@@ -4669,7 +4669,7 @@
             "isolamento_domiciliare": "449",
             "lat": "42.35122196",
             "long": "13.39843823",
-            "note": "Dal totale dei positivi \u00e8 stato sottratto 1 caso precedentemente conteggiato 2 volte\n",
+            "note": "Dal totale dei positivi \u00e8 stato sottratto 1 caso precedentemente conteggiato 2 volte",
             "nuovi_positivi": "13",
             "ricoverati_con_sintomi": "32",
             "stato": "ITA",
@@ -23517,7 +23517,7 @@
             "isolamento_domiciliare": "3232",
             "lat": "44.49436681",
             "long": "11.341720800000001",
-            "note": "In seguito a verifica sui dati comunicati nei giorni scorsi \u00e8 stato eliminato 1 caso da Reggio Emilia in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 32.504.\nIn seguito a verifica, un decesso precedentemente comunicato \u00e8 stato giudicato non attribuibile a COVID-19. Si corregge pertanto il numero totale dei decessi comunicato ieri: n corretto 4.463.",
+            "note": "In seguito a verifica sui dati comunicati nei giorni scorsi \u00e8 stato eliminato 1 caso da Reggio Emilia in quanto giudicato non caso COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n corretto 32.504. In seguito a verifica, un decesso precedentemente comunicato \u00e8 stato giudicato non attribuibile a COVID-19. Si corregge pertanto il numero totale dei decessi comunicato ieri: n corretto 4.463.",
             "nuovi_positivi": "124",
             "ricoverati_con_sintomi": "124",
             "stato": "ITA",
@@ -98825,10 +98825,10 @@
             "variazione_totale_positivi": "62"
         }
     },
-    "lastUpdate": "06-09-2020 (18:01:02)",
+    "lastUpdate": "06-09-2020 (19:01:01)",
     "newData": [
-        "Abruzzo",
-        "Emilia-Romagna"
+        "Emilia-Romagna",
+        "Abruzzo"
     ],
-    "timestamp": 1599408068.633808
+    "timestamp": 1599411667.5190542
 }
