@@ -192,6 +192,11 @@ export default {
         width: '12%',
       },
       {
+        name: 'PercentSwapsRecovered',
+        title: '% Swabs Recovered',
+        width: '12%',
+      },
+      {
         name: '__slot:actions',
         dataClass: 'text-right',
       },
@@ -246,6 +251,11 @@ export default {
       {
         name: 'SwabsDayPerDay',
         title: 'SwabsDayPerDay',
+        width: '12%',
+      },
+      {
+        name: 'PercentSwapsRecovered',
+        title: '% Swabs Recovered',
         width: '12%',
       },
       {
@@ -375,6 +385,7 @@ export default {
       const arrayRecovered = []
       const arrayRate = []
       const arraySwabsPerDay = []
+      const arrayPercentSwabsRecovered = []
       const arrayDateShow = []
       this.arrayTable = []
       this.confirmed = regionData[lastDate].Confirmed
@@ -387,6 +398,7 @@ export default {
         let dayPerDayOrder = ''
         let dayPerDayPercent = 0
         let swabsdayperday = 0
+        let percentswapsrecovered = 0
         if (i > 0 && regionData[arrayDate[i - 1]].Confirmed > 0) {
           dayPerDay = regionData[arrayDate[i]].Confirmed - regionData[arrayDate[i - 1]].Confirmed
           dayPerDayPercent = (regionData[arrayDate[i]].Confirmed - regionData[arrayDate[i - 1]].Confirmed) / regionData[arrayDate[i - 1]].Confirmed * 100
@@ -394,6 +406,10 @@ export default {
         }
         if (i > 0) {
           swabsdayperday = parseInt(regionData[arrayDate[i]].tamponi) - parseInt(regionData[arrayDate[i - 1]].tamponi)
+          if (swabsdayperday !== 0) {
+            percentswapsrecovered = parseInt(dayPerDay) / parseInt(swabsdayperday) * 100
+            percentswapsrecovered = percentswapsrecovered.toFixed(2)
+          }
           console.log(parseInt(regionData[arrayDate[i]].tamponi) + '<->' + parseInt(regionData[arrayDate[i - 1]].tamponi))
         }
         dayPerDay = String(dayPerDay)
@@ -401,6 +417,7 @@ export default {
         let sign = ''
         arrayRate.push(dayPerDayPercent)
         arraySwabsPerDay.push(swabsdayperday)
+        arrayPercentSwabsRecovered.push(percentswapsrecovered)
         if (dayPerDayPercent > 0) sign = '+'
         this.arrayTable.push({
           DateOrder: arrayDate[i],
@@ -416,6 +433,7 @@ export default {
           HomeIsolation: regionData[arrayDate[i]].isolamento_domiciliare,
           Swabs: regionData[arrayDate[i]].tamponi,
           SwabsDayPerDay: swabsdayperday,
+          PercentSwapsRecovered: percentswapsrecovered,
         })
       }
       this.arrayTable = this.arrayTable.reverse()
@@ -488,6 +506,12 @@ export default {
             backgroundColor: hex2rgb(this.$themes.primary, 0.3).css,
             borderColor: 'transparent',
             data: arraySwabsPerDay,
+          },
+          {
+            label: '% Swaps Recovered',
+            backgroundColor: hex2rgb(this.$themes.danger, 0.3).css,
+            borderColor: 'transparent',
+            data: arrayPercentSwabsRecovered,
           },
         ],
       }
