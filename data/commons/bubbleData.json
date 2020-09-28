@@ -181,7 +181,7 @@
     },
     "Cuba": {
         "latitude": 21.521757,
-        "longitude": -77.78116700000002
+        "longitude": -77.781167
     },
     "Cyprus": {
         "latitude": 35.1264,
@@ -216,7 +216,7 @@
         "longitude": -78.1834
     },
     "Egypt": {
-        "latitude": 26.820553000000004,
+        "latitude": 26.820553,
         "longitude": 30.802498
     },
     "El Salvador": {
@@ -296,8 +296,8 @@
         "longitude": -15.1804
     },
     "Guyana": {
-        "latitude": 4.860416000000002,
-        "longitude": -58.93018000000001
+        "latitude": 4.860416,
+        "longitude": -58.93018
     },
     "Haiti": {
         "latitude": 18.9712,
@@ -329,7 +329,7 @@
     },
     "Iran": {
         "latitude": 32.427908,
-        "longitude": 53.68804599999999
+        "longitude": 53.688046
     },
     "Iraq": {
         "latitude": 33.223191,
@@ -368,7 +368,7 @@
         "longitude": 37.9062
     },
     "Korea, South": {
-        "latitude": 35.90775700000001,
+        "latitude": 35.907757,
         "longitude": 127.766922
     },
     "Kosovo": {
@@ -400,7 +400,7 @@
         "longitude": 28.2336
     },
     "Liberia": {
-        "latitude": 6.4280550000000005,
+        "latitude": 6.428055,
         "longitude": -9.429499
     },
     "Libya": {
@@ -432,7 +432,7 @@
         "longitude": 34.3015
     },
     "Malaysia": {
-        "latitude": 4.210483999999999,
+        "latitude": 4.210484,
         "longitude": 101.975766
     },
     "Maldives": {
@@ -441,7 +441,7 @@
     },
     "Mali": {
         "latitude": 17.570692,
-        "longitude": -3.996166000000001
+        "longitude": -3.996166
     },
     "Malta": {
         "latitude": 35.9375,
@@ -472,7 +472,7 @@
         "longitude": 103.8467
     },
     "Montenegro": {
-        "latitude": 42.708678000000006,
+        "latitude": 42.708678,
         "longitude": 19.37439
     },
     "Morocco": {
@@ -521,7 +521,7 @@
     },
     "Oman": {
         "latitude": 21.512583,
-        "longitude": 55.92325500000001
+        "longitude": 55.923255
     },
     "Pakistan": {
         "latitude": 34.027401,
@@ -608,7 +608,7 @@
         "longitude": 55.492
     },
     "Sierra Leone": {
-        "latitude": 8.460555000000001,
+        "latitude": 8.460555,
         "longitude": -11.779889
     },
     "Singapore": {
@@ -632,7 +632,7 @@
         "longitude": 22.9375
     },
     "South Sudan": {
-        "latitude": 6.877000000000002,
+        "latitude": 6.877,
         "longitude": 31.307
     },
     "Spain": {
@@ -641,7 +641,7 @@
     },
     "Sri Lanka": {
         "latitude": 7.873054,
-        "longitude": 80.77179699999998
+        "longitude": 80.771797
     },
     "Sudan": {
         "latitude": 12.8628,
@@ -661,7 +661,7 @@
     },
     "Syria": {
         "latitude": 34.802075,
-        "longitude": 38.99681500000001
+        "longitude": 38.996815
     },
     "Taiwan*": {
         "latitude": 23.7,
